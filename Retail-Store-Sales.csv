@@ -1,0 +1,501 @@
+Receipt ID,Purchase Date,Store Name,City,State,Region,Customer Segment,Category,Sub-Category,Quantity,Unit Price,Sales,Discount,Profit,Payment Method
+d48a4fb2-a086-4958-a221-4074c848ee96,2024-12-19,QuickBuy,Pittsburgh,Pennsylvania,East,Home Office,Groceries,Dairy,9,694.74,6252.66,0.05,1084.19,Online Payment
+4ef780f6-fd1e-4ef6-bd6d-8db4b83bfd7c,2025-05-04,ShopEase,Reno,Nevada,West,Home Office,Groceries,Snacks,8,177.82,1422.56,0.15,77.29,Credit Card
+64d37fc6-8abc-43bb-b65e-b2b19a740cf9,2024-09-16,Urban Mart,Houston,Texas,Central,Consumer,Groceries,Snacks,10,903.45,9034.5,0.0,1819.69,Cash
+c0bbdc30-cb26-4b16-9cdf-b31ba7fc3fa9,2025-03-26,Metro Store,Dallas,Texas,Central,Consumer,Clothing,Women,5,571.14,2855.7,0.1,600.64,Online Payment
+1d149b98-b8e7-4f65-bff3-5a82336c0b93,2024-07-10,ValueHub,Chicago,Illinois,Central,Home Office,Home & Kitchen,Decor,3,852.8,2558.4,0.0,316.84,Bank Transfer
+ac6bbfbf-da60-4956-97c2-93246c9c6c9e,2024-09-17,Urban Mart,Springfield,Illinois,Central,Consumer,Groceries,Fruits,10,395.48,3954.8,0.1,684.65,Bank Transfer
+5779442d-56df-4130-9d9c-e40215a791b7,2025-01-06,Metro Store,Charlotte,North Carolina,South,Corporate,Home & Kitchen,Utensils,4,556.31,2225.24,0.1,436.58,Cash
+63248dd1-fa83-4e0a-88d8-12f514cd1c57,2024-12-17,Urban Mart,New York City,New York,East,Home Office,Clothing,Women,3,721.9,2165.7,0.15,334.27,Credit Card
+8d38bb35-5e6c-47ce-9abc-dcec100ffac1,2025-04-22,QuickBuy,Pittsburgh,Pennsylvania,East,Home Office,Clothing,Men,10,181.44,1814.4,0.2,195.7,Bank Transfer
+c210dca6-1678-49ee-8147-1c0bc195b634,2025-02-26,QuickBuy,Chicago,Illinois,Central,Home Office,Home & Kitchen,Utensils,10,499.16,4991.6,0.05,912.49,Credit Card
+601157cf-bed1-4387-8e9f-6cc0e604b01a,2024-06-20,ValueHub,Chicago,Illinois,Central,Corporate,Electronics,Accessories,2,581.11,1162.22,0.0,91.14,Online Payment
+330e9b4d-66ef-4be9-8087-09e2cabd3bfc,2024-07-04,Metro Store,Las Vegas,Nevada,West,Corporate,Electronics,Accessories,9,798.5,7186.5,0.1,1116.4,Credit Card
+ce239f97-00c8-4d01-b205-2e4f4e6b36cf,2024-11-21,ValueHub,Spokane,Washington,West,Corporate,Electronics,Appliances,7,354.21,2479.47,0.1,240.65,Online Payment
+97f73b5b-a3d8-47a7-968b-ba373bfc1829,2025-05-04,ValueHub,Springfield,Illinois,Central,Consumer,Groceries,Dairy,5,809.28,4046.4,0.2,179.53,Credit Card
+381dec74-2170-4782-84e1-094fea5488a4,2024-11-23,ShopEase,Philadelphia,Pennsylvania,East,Corporate,Home & Kitchen,Furniture,10,282.41,2824.1,0.1,134.3,Cash
+22469804-7927-4c40-9099-64b33a420c30,2024-06-11,ShopEase,Pittsburgh,Pennsylvania,East,Consumer,Groceries,Vegetables,4,485.95,1943.8,0.2,345.85,Online Payment
+67ade166-14be-43ff-a174-553090f1be8a,2025-03-04,QuickBuy,Philadelphia,Pennsylvania,East,Corporate,Electronics,Phones,4,661.35,2645.4,0.05,231.64,Bank Transfer
+2db6b4ed-fdf8-4cd8-96f8-7cc22a16a41f,2024-09-07,Metro Store,Chicago,Illinois,Central,Corporate,Electronics,Phones,8,302.76,2422.08,0.2,187.43,Bank Transfer
+b520d7f3-c95d-4fab-aaa7-7d9c4ee99438,2024-06-14,Urban Mart,Springfield,Illinois,Central,Corporate,Home & Kitchen,Utensils,7,679.14,4753.98,0.2,709.58,Bank Transfer
+acbee483-ce16-4ed8-b345-4f71b6ba6043,2024-12-12,ShopEase,Dallas,Texas,Central,Corporate,Groceries,Fruits,2,256.83,513.66,0.2,52.69,Online Payment
+7c2d9e21-3403-4b9c-a482-1e260f079db8,2025-02-12,Metro Store,Pittsburgh,Pennsylvania,East,Corporate,Clothing,Kids,1,832.03,832.03,0.0,110.04,Credit Card
+50c4787f-75b1-409f-8743-03ebe69ae79b,2025-03-03,ShopEase,Springfield,Illinois,Central,Consumer,Groceries,Snacks,1,620.16,620.16,0.0,147.41,Credit Card
+bfd24eac-8522-48a8-9262-04e9086e2f71,2024-10-29,Urban Mart,Las Vegas,Nevada,West,Home Office,Clothing,Kids,7,657.08,4599.56,0.2,775.08,Cash
+60e4cde2-948a-4fb1-b03b-49186dc2c577,2024-07-15,QuickBuy,Worcester,Massachusetts,East,Home Office,Clothing,Men,8,922.85,7382.8,0.1,1354.63,Credit Card
+141dc33f-d3a6-44d8-a53b-521835ae7e8d,2025-01-27,Urban Mart,Buffalo,New York,East,Corporate,Electronics,Accessories,6,995.97,5975.82,0.1,1296.81,Bank Transfer
+7c5ecda8-1937-4947-9a32-b063984de1b3,2024-11-04,Metro Store,Orlando,Florida,South,Home Office,Electronics,Phones,3,646.19,1938.57,0.0,152.71,Bank Transfer
+ac38e434-19ba-4895-b002-3aa1e35a97e1,2025-04-07,Urban Mart,Spokane,Washington,West,Consumer,Home & Kitchen,Furniture,2,572.2,1144.4,0.1,211.6,Credit Card
+2213dac2-3f7f-4d24-9efe-f830797798f1,2024-09-06,Urban Mart,Philadelphia,Pennsylvania,East,Home Office,Groceries,Snacks,5,153.3,766.5,0.1,159.3,Bank Transfer
+36d7723b-c845-485c-aa09-baad22ff12b4,2024-12-18,Urban Mart,Savannah,Georgia,South,Home Office,Groceries,Snacks,1,385.66,385.66,0.15,24.34,Cash
+45952248-64d1-41db-889f-90c6cf918eab,2024-06-10,Urban Mart,Houston,Texas,Central,Corporate,Electronics,Accessories,2,841.5,1683.0,0.1,271.98,Online Payment
+13d4c4ec-f409-47f5-b4aa-532fd3669a3f,2024-12-02,ShopEase,Seattle,Washington,West,Home Office,Clothing,Kids,2,631.36,1262.72,0.1,167.4,Bank Transfer
+4ee90ded-123b-488b-8289-0c386af7618e,2024-07-10,Metro Store,New York City,New York,East,Consumer,Home & Kitchen,Decor,8,389.99,3119.92,0.2,445.98,Cash
+3606f40f-60f7-4ef6-a282-5c6d8769e8fa,2024-11-21,ShopEase,Miami,Florida,South,Consumer,Home & Kitchen,Decor,1,406.7,406.7,0.05,81.69,Online Payment
+a54ea9b7-3d2d-4bef-90ff-9678bc5d1911,2024-10-02,Urban Mart,Philadelphia,Pennsylvania,East,Consumer,Home & Kitchen,Decor,8,654.52,5236.16,0.15,1030.06,Cash
+ea9e12fd-16aa-4835-8648-e6557f43238d,2024-06-27,Urban Mart,New York City,New York,East,Corporate,Groceries,Vegetables,8,612.0,4896.0,0.2,245.94,Credit Card
+403fa0dc-6c8b-42eb-b7f9-6951bf21543b,2025-04-29,Urban Mart,Charlotte,North Carolina,South,Consumer,Groceries,Fruits,6,811.9,4871.4,0.15,475.55,Bank Transfer
+49f71648-d398-4635-9115-c3c404a1bb2a,2024-09-04,ShopEase,New York City,New York,East,Consumer,Clothing,Women,5,142.95,714.75,0.15,50.8,Credit Card
+b8098016-cd29-444a-9786-92a67bcc7386,2024-06-14,ValueHub,Boston,Massachusetts,East,Consumer,Electronics,Appliances,2,791.47,1582.94,0.2,158.58,Cash
+738783ec-f761-4d6e-bb06-1aae25b76e65,2024-07-18,Urban Mart,Miami,Florida,South,Consumer,Clothing,Men,10,887.14,8871.4,0.15,1422.93,Credit Card
+ac470147-f1b0-4beb-8ee8-3d46b6ced0b0,2024-09-03,ShopEase,New York City,New York,East,Home Office,Home & Kitchen,Decor,7,240.78,1685.46,0.05,275.58,Bank Transfer
+edcfc2b8-6f2f-431c-8ce7-6a227019aa1e,2024-08-09,ShopEase,Charlotte,North Carolina,South,Corporate,Groceries,Vegetables,1,558.59,558.59,0.05,39.0,Bank Transfer
+5af22ce6-22ce-4f7b-b608-0839edfd9768,2024-07-25,ShopEase,Boston,Massachusetts,East,Consumer,Groceries,Dairy,2,797.02,1594.04,0.15,202.57,Cash
+a38465f6-b576-4f21-8825-b314a8d2c11d,2025-05-22,ShopEase,San Francisco,California,West,Consumer,Clothing,Kids,5,335.63,1678.15,0.15,83.68,Bank Transfer
+31ffac45-3a61-4315-9ee1-c13db0265fd1,2024-06-22,ValueHub,Buffalo,New York,East,Consumer,Groceries,Vegetables,4,721.96,2887.84,0.2,383.4,Credit Card
+eef1838b-ce90-4bda-8305-8cbda1bcf31c,2025-03-31,ShopEase,Chicago,Illinois,Central,Consumer,Home & Kitchen,Furniture,4,738.27,2953.08,0.05,350.98,Credit Card
+f93b4130-9727-428d-9fda-e5f7b8d61707,2025-01-16,Urban Mart,Raleigh,North Carolina,South,Corporate,Clothing,Men,4,928.03,3712.12,0.15,270.13,Cash
+ad0a6d65-418f-48df-9451-ee76331861ff,2024-10-04,ShopEase,Charlotte,North Carolina,South,Corporate,Electronics,Phones,6,128.96,773.76,0.2,38.34,Cash
+d7440e5b-b58d-4fa3-8261-b914013ddb80,2025-05-26,Metro Store,Savannah,Georgia,South,Corporate,Clothing,Men,5,604.43,3022.15,0.2,558.77,Cash
+8577306e-b7a4-46e8-87a8-ae9a83493cfa,2025-02-23,Metro Store,Raleigh,North Carolina,South,Home Office,Clothing,Men,8,280.61,2244.88,0.15,376.36,Bank Transfer
+ca3d7aaa-a800-4d58-927e-6c81222e6765,2024-06-09,ValueHub,Houston,Texas,Central,Consumer,Clothing,Men,7,980.22,6861.54,0.0,1703.41,Credit Card
+a6360dcc-97a5-4ced-9848-a6dc63d78e48,2024-07-16,QuickBuy,Atlanta,Georgia,South,Corporate,Groceries,Snacks,2,559.37,1118.74,0.0,211.03,Cash
+d07a15d7-9642-437a-9f90-877b4f76b614,2024-12-18,Metro Store,Worcester,Massachusetts,East,Home Office,Home & Kitchen,Furniture,1,480.82,480.82,0.1,35.64,Credit Card
+a7575e2d-89a5-4446-9c24-9a2000fb1a08,2024-10-19,Metro Store,Spokane,Washington,West,Home Office,Home & Kitchen,Decor,3,790.28,2370.84,0.1,374.18,Bank Transfer
+1f37aace-09e4-4bf8-afa5-9cef507632e6,2024-07-16,ValueHub,Raleigh,North Carolina,South,Consumer,Groceries,Fruits,7,753.38,5273.66,0.2,668.65,Online Payment
+0fb85d5d-3d49-4055-be55-16f38527acd7,2024-10-03,Urban Mart,Reno,Nevada,West,Home Office,Clothing,Kids,1,112.74,112.74,0.1,14.52,Online Payment
+1e23c23a-ca8d-41c9-96c1-62be514b1821,2024-08-01,ValueHub,Chicago,Illinois,Central,Home Office,Groceries,Dairy,3,981.29,2943.87,0.05,441.67,Cash
+6c0797f5-ca55-49ae-8eb0-b1061c6bf22a,2025-04-03,ShopEase,Philadelphia,Pennsylvania,East,Corporate,Home & Kitchen,Decor,9,680.87,6127.83,0.1,335.82,Online Payment
+b1cff26e-c97b-46be-945b-c9afffa8843e,2024-10-04,QuickBuy,Atlanta,Georgia,South,Home Office,Electronics,Accessories,8,621.71,4973.68,0.0,436.05,Online Payment
+2cab8068-a961-4bd1-8227-e609644c2f02,2024-06-21,ShopEase,Seattle,Washington,West,Consumer,Home & Kitchen,Furniture,3,277.39,832.17,0.05,118.0,Credit Card
+2cd80ff0-a487-410e-a6c1-0a4f462b001e,2025-03-02,ValueHub,Spokane,Washington,West,Consumer,Clothing,Kids,6,421.29,2527.74,0.0,273.76,Bank Transfer
+9a6a776f-e0ca-47e0-8b4a-a4d542695077,2025-04-01,QuickBuy,Pittsburgh,Pennsylvania,East,Home Office,Groceries,Fruits,6,487.18,2923.08,0.2,510.68,Online Payment
+e481e52d-4fcb-465c-ac7f-16d6842368a9,2025-04-01,ShopEase,Detroit,Michigan,Central,Consumer,Home & Kitchen,Utensils,4,485.27,1941.08,0.1,356.29,Online Payment
+6d19a2aa-1df1-461b-9887-154875429de6,2025-04-28,Metro Store,Dallas,Texas,Central,Home Office,Groceries,Vegetables,9,286.68,2580.12,0.05,534.02,Cash
+4115d210-efc4-4d56-827d-2923c08194b8,2025-05-21,ShopEase,New York City,New York,East,Home Office,Clothing,Men,8,261.89,2095.12,0.05,181.18,Cash
+5f40ab5e-615d-4b2d-ab52-8d62ee2715fc,2025-03-15,QuickBuy,Springfield,Illinois,Central,Home Office,Groceries,Dairy,9,302.96,2726.64,0.0,356.95,Cash
+94ce59c6-ec02-4764-b265-7a15eedd9722,2025-02-20,Urban Mart,Atlanta,Georgia,South,Home Office,Home & Kitchen,Furniture,5,474.96,2374.8,0.1,521.34,Online Payment
+d68d6a41-775b-4fdc-a671-9dc7861e18ac,2024-06-14,QuickBuy,Atlanta,Georgia,South,Consumer,Clothing,Kids,9,118.64,1067.76,0.0,139.16,Cash
+d038f793-065c-4ee2-8ca9-ea54d4cc291b,2024-08-09,Urban Mart,Springfield,Illinois,Central,Home Office,Clothing,Women,10,527.38,5273.8,0.1,423.11,Cash
+97a1ecbd-3501-4b26-b8be-70aad7f7517e,2025-01-09,Metro Store,Reno,Nevada,West,Corporate,Groceries,Snacks,10,605.87,6058.7,0.0,1403.74,Online Payment
+a4ed01c9-0085-4919-90d4-f90f66a7c959,2024-06-26,ShopEase,Pittsburgh,Pennsylvania,East,Corporate,Electronics,Accessories,1,286.08,286.08,0.1,28.74,Online Payment
+636116ee-baf7-425b-9516-1c35c3828fdc,2024-07-14,QuickBuy,San Francisco,California,West,Corporate,Home & Kitchen,Decor,3,806.06,2418.18,0.15,402.3,Online Payment
+705c88f0-3267-4e78-baf5-d5a2c2639659,2024-10-13,ShopEase,Los Angeles,California,West,Corporate,Home & Kitchen,Furniture,2,933.29,1866.58,0.2,300.48,Online Payment
+36201ca9-5071-4e2f-bf65-2855550f5a49,2024-06-18,QuickBuy,Raleigh,North Carolina,South,Consumer,Groceries,Fruits,10,755.73,7557.3,0.05,645.08,Bank Transfer
+600150c3-a1db-4d84-9c2e-a61650e92cfb,2024-10-04,ValueHub,Orlando,Florida,South,Corporate,Home & Kitchen,Utensils,9,740.38,6663.42,0.05,350.49,Bank Transfer
+81f57538-d6e8-4be3-aa1d-2590c5c253cf,2024-08-18,Urban Mart,Dallas,Texas,Central,Home Office,Groceries,Vegetables,7,181.01,1267.07,0.05,67.03,Online Payment
+5d94d729-9dd8-4d48-bda8-0e4f23c08c2a,2024-07-05,ValueHub,Reno,Nevada,West,Corporate,Electronics,Accessories,5,628.74,3143.7,0.15,654.28,Bank Transfer
+70ffab94-7626-4ff4-872b-03b58a0e4936,2025-05-16,ValueHub,Seattle,Washington,West,Consumer,Groceries,Dairy,6,462.12,2772.72,0.05,319.98,Cash
+fb4a521b-85e1-4b48-b61c-1284da3d8328,2025-04-11,Urban Mart,Dallas,Texas,Central,Corporate,Groceries,Dairy,9,639.67,5757.03,0.0,879.52,Online Payment
+70569867-78e1-40dd-aba2-b49843c9cb3b,2025-03-06,ShopEase,Pittsburgh,Pennsylvania,East,Home Office,Clothing,Men,5,686.07,3430.35,0.1,213.54,Online Payment
+a16eb7ec-8b57-41d3-934d-d7255ba58126,2024-10-24,ShopEase,San Francisco,California,West,Corporate,Electronics,Phones,6,921.07,5526.42,0.05,370.05,Bank Transfer
+2d64d230-deb0-416e-add3-30425abae02d,2024-11-13,QuickBuy,New York City,New York,East,Corporate,Clothing,Kids,2,819.21,1638.42,0.0,239.05,Credit Card
+934ea6d8-f6f8-40dd-8b77-c5c63366a268,2025-01-10,ValueHub,Springfield,Illinois,Central,Home Office,Electronics,Appliances,3,710.48,2131.44,0.0,423.93,Online Payment
+6fb7bdbc-425b-43e4-bcfd-d6dcc5d6a8c1,2025-05-15,Metro Store,Philadelphia,Pennsylvania,East,Corporate,Groceries,Vegetables,4,131.96,527.84,0.0,71.24,Cash
+552f881d-7203-41ae-a994-810a09032cd4,2025-03-02,Urban Mart,Spokane,Washington,West,Consumer,Groceries,Fruits,1,793.47,793.47,0.2,107.05,Credit Card
+1f67ab1f-1418-4e24-be09-98bf274f72a1,2024-06-17,ShopEase,Chicago,Illinois,Central,Home Office,Home & Kitchen,Furniture,2,782.81,1565.62,0.2,114.08,Credit Card
+8d886885-8f16-48c9-bc10-87f5f8add21f,2024-09-12,Metro Store,Chicago,Illinois,Central,Home Office,Clothing,Men,10,349.14,3491.4,0.05,733.11,Online Payment
+c5f7007c-a395-4b3b-8b3c-a74844ad360b,2024-07-21,ValueHub,Los Angeles,California,West,Consumer,Clothing,Kids,5,173.43,867.15,0.2,35.29,Cash
+d6b81aae-90eb-4620-9b20-279659abfd23,2024-08-18,QuickBuy,Atlanta,Georgia,South,Home Office,Groceries,Vegetables,3,835.07,2505.21,0.15,287.09,Credit Card
+1681bf39-de3c-4e02-a2eb-5e4667445d4e,2025-06-08,QuickBuy,Seattle,Washington,West,Consumer,Clothing,Women,8,762.75,6102.0,0.1,886.52,Cash
+c73174f6-b771-4d0a-b223-f85c69b0b9bb,2025-02-22,QuickBuy,Houston,Texas,Central,Corporate,Groceries,Fruits,10,736.7,7367.0,0.15,595.98,Bank Transfer
+d51b0d0d-abf5-4e64-9430-cc9a58d26c9f,2024-06-15,QuickBuy,Miami,Florida,South,Home Office,Home & Kitchen,Utensils,3,14.76,44.28,0.15,6.94,Online Payment
+fb7eff62-5761-41c5-9090-934439cd80a0,2024-06-11,QuickBuy,Los Angeles,California,West,Corporate,Home & Kitchen,Utensils,3,66.58,199.74,0.05,22.34,Credit Card
+e48e7796-ee21-4b31-ab18-5072d165b0d5,2024-07-05,ShopEase,Worcester,Massachusetts,East,Home Office,Home & Kitchen,Furniture,7,357.39,2501.73,0.2,480.39,Online Payment
+5d4068b2-fbc0-4b59-b05e-6ffbe73b3fea,2024-12-17,Urban Mart,Springfield,Illinois,Central,Consumer,Home & Kitchen,Decor,8,498.28,3986.24,0.05,211.86,Online Payment
+0c5ac849-2b94-409c-8f4c-05a3f894005c,2024-08-23,Metro Store,Charlotte,North Carolina,South,Corporate,Groceries,Fruits,3,304.15,912.45,0.2,50.56,Online Payment
+a2b86ed4-5250-4e88-963e-36b49c1eb97b,2024-11-25,QuickBuy,Orlando,Florida,South,Corporate,Groceries,Snacks,9,344.93,3104.37,0.2,395.68,Online Payment
+f8a1a16d-d5eb-40b1-a1c5-a29cd0df39b1,2025-02-25,ShopEase,Spokane,Washington,West,Corporate,Groceries,Snacks,8,37.91,303.28,0.05,46.48,Bank Transfer
+80410bde-5c97-48b0-98cd-94964ea0db5c,2025-01-03,Metro Store,Worcester,Massachusetts,East,Corporate,Electronics,Appliances,8,764.48,6115.84,0.2,905.17,Bank Transfer
+bbd78977-5456-4b00-bc1d-e96a38641ddb,2025-03-02,QuickBuy,Philadelphia,Pennsylvania,East,Corporate,Home & Kitchen,Utensils,10,970.93,9709.3,0.2,1439.29,Bank Transfer
+70330abd-8202-4ea8-a834-eec7bc45f18a,2025-02-05,Metro Store,Los Angeles,California,West,Corporate,Electronics,Accessories,10,28.85,288.5,0.1,32.75,Online Payment
+cb979bf5-e974-4b52-b406-596bd369bd72,2024-11-18,Urban Mart,Dallas,Texas,Central,Home Office,Home & Kitchen,Utensils,4,236.15,944.6,0.1,143.25,Cash
+ab8034e3-126d-41af-9c73-7a46293e15b1,2024-07-26,Urban Mart,Seattle,Washington,West,Home Office,Groceries,Dairy,1,461.99,461.99,0.15,64.25,Online Payment
+9b01840e-6573-41aa-ad10-ee48775c0c7d,2025-04-08,ValueHub,Reno,Nevada,West,Consumer,Home & Kitchen,Utensils,7,571.21,3998.47,0.1,592.0,Online Payment
+67b073bf-42b0-4a2d-b641-98dc1b9b37ac,2024-11-29,ValueHub,Worcester,Massachusetts,East,Home Office,Home & Kitchen,Furniture,3,615.6,1846.8,0.1,405.37,Online Payment
+7015c061-0ddf-4086-93a2-ff2d38b04856,2024-08-19,ShopEase,Las Vegas,Nevada,West,Corporate,Clothing,Women,5,996.24,4981.2,0.15,893.04,Credit Card
+108a0115-0640-48b7-8614-dbb7b62d1907,2025-03-21,ValueHub,Houston,Texas,Central,Home Office,Groceries,Fruits,7,211.32,1479.24,0.0,266.72,Bank Transfer
+5c886a08-7091-4f0a-8093-285511f3597a,2025-03-08,Metro Store,Dallas,Texas,Central,Corporate,Electronics,Appliances,5,625.71,3128.55,0.15,490.14,Bank Transfer
+cdfdd34d-ff09-4d70-a7a6-0ca9ae2e6973,2025-02-03,Metro Store,Pittsburgh,Pennsylvania,East,Home Office,Clothing,Men,5,937.29,4686.45,0.2,794.02,Bank Transfer
+65000cec-9903-49e3-9d35-87dcf6ecdb6d,2024-10-02,ShopEase,Las Vegas,Nevada,West,Corporate,Home & Kitchen,Decor,4,152.17,608.68,0.1,119.87,Cash
+65c445a3-ff5c-437d-9b4d-78d2993af1a8,2024-09-03,QuickBuy,Las Vegas,Nevada,West,Corporate,Home & Kitchen,Utensils,3,257.93,773.79,0.2,60.19,Online Payment
+6ff7dbc0-467b-4700-9788-74f8a37b757f,2025-03-17,Metro Store,New York City,New York,East,Corporate,Clothing,Men,8,560.71,4485.68,0.15,512.46,Bank Transfer
+6b0512de-f295-47f1-a36f-bebac77f45ea,2025-01-27,Urban Mart,Boston,Massachusetts,East,Corporate,Groceries,Vegetables,9,177.63,1598.67,0.0,388.09,Online Payment
+41d11724-5ff1-43d6-970d-26134f64f476,2024-10-26,ValueHub,San Francisco,California,West,Corporate,Home & Kitchen,Furniture,7,896.98,6278.86,0.0,812.35,Credit Card
+5b3b4171-dd3c-448c-a651-0ea2f6297bd5,2024-12-05,ValueHub,Las Vegas,Nevada,West,Home Office,Clothing,Men,8,884.8,7078.4,0.05,1142.92,Online Payment
+3a68e4c8-552c-4e20-8225-b48fa542b11c,2025-03-20,QuickBuy,Charlotte,North Carolina,South,Consumer,Electronics,Accessories,2,176.8,353.6,0.1,43.88,Cash
+cbf4fbc9-2fc6-4a8c-971e-cb3601b7ab6c,2025-01-26,Urban Mart,Spokane,Washington,West,Corporate,Electronics,Appliances,8,683.37,5466.96,0.1,1111.42,Bank Transfer
+d784f573-7a5d-4e83-91c5-d84f4713486d,2024-12-14,ShopEase,Raleigh,North Carolina,South,Consumer,Clothing,Women,1,691.3,691.3,0.05,66.07,Credit Card
+b95fe5f0-6ed9-4222-ad38-b459ec3dbaf4,2024-11-27,ValueHub,Detroit,Michigan,Central,Consumer,Home & Kitchen,Utensils,7,9.85,68.95,0.15,13.8,Bank Transfer
+9362e6e3-fa6f-4e9d-add5-5e839b637701,2024-07-27,Metro Store,San Francisco,California,West,Consumer,Electronics,Accessories,6,879.71,5278.26,0.15,932.58,Bank Transfer
+63365da8-5ce0-414b-843d-4eaeabd9f3ec,2025-01-11,ShopEase,Savannah,Georgia,South,Home Office,Electronics,Phones,2,824.75,1649.5,0.1,224.56,Bank Transfer
+383521f7-f2e6-4b3a-9352-bd3f46f303ff,2024-08-09,Urban Mart,Houston,Texas,Central,Home Office,Electronics,Accessories,8,791.44,6331.52,0.05,304.45,Cash
+c6612a0a-5b39-4f59-867b-1615da9af1d4,2024-06-12,Urban Mart,Houston,Texas,Central,Consumer,Clothing,Kids,9,714.14,6427.26,0.05,1339.59,Cash
+79cdf609-f98a-4533-9988-b91ecde89c9b,2025-05-18,ShopEase,Atlanta,Georgia,South,Consumer,Home & Kitchen,Utensils,5,200.27,1001.35,0.15,105.13,Online Payment
+ba672295-8ee9-42e8-9d02-d0ed29e20dbd,2024-07-26,ValueHub,New York City,New York,East,Home Office,Home & Kitchen,Utensils,2,974.18,1948.36,0.05,189.46,Cash
+3c8d57c4-7a0f-4851-96dc-6fd48c7e9471,2024-10-17,ValueHub,Raleigh,North Carolina,South,Corporate,Clothing,Men,2,958.12,1916.24,0.05,435.9,Cash
+fb96bed5-4bb3-47de-bc3d-3634df904158,2024-09-13,Urban Mart,Savannah,Georgia,South,Consumer,Groceries,Fruits,4,946.16,3784.64,0.1,366.48,Cash
+3d1faa5d-1a17-48a0-b0cd-b796f7a43e94,2024-07-17,ValueHub,Boston,Massachusetts,East,Consumer,Home & Kitchen,Utensils,4,419.49,1677.96,0.15,297.37,Online Payment
+319d98c2-8644-456d-ab41-b7c5a0b4a129,2024-11-09,Metro Store,Springfield,Illinois,Central,Corporate,Groceries,Dairy,2,12.3,24.6,0.05,5.24,Bank Transfer
+2950d1d7-3843-4d2d-9828-3d7f5a687edb,2024-09-17,QuickBuy,Pittsburgh,Pennsylvania,East,Home Office,Home & Kitchen,Decor,2,97.09,194.18,0.0,11.73,Online Payment
+8f6ed459-fb6b-475c-b94f-8401e410f8f3,2024-09-26,Urban Mart,Detroit,Michigan,Central,Corporate,Clothing,Women,5,977.57,4887.85,0.1,336.3,Bank Transfer
+bf43204d-be08-4be2-9ea0-2228f426e864,2024-08-09,ShopEase,Springfield,Illinois,Central,Corporate,Groceries,Vegetables,2,318.68,637.36,0.2,69.64,Cash
+85e205fb-8b15-4339-9d9e-61d35e00cfe6,2024-10-02,QuickBuy,Chicago,Illinois,Central,Corporate,Electronics,Phones,7,284.36,1990.52,0.1,309.18,Online Payment
+ab5d825f-1255-404d-86d1-0196684db9e0,2024-06-22,ShopEase,Houston,Texas,Central,Home Office,Electronics,Appliances,3,556.56,1669.68,0.15,86.07,Bank Transfer
+dc0b3f76-306c-44ee-aebd-7db2fb678e56,2024-07-23,QuickBuy,New York City,New York,East,Corporate,Clothing,Men,8,437.56,3500.48,0.15,173.04,Cash
+ef99b525-54f8-4f0a-ad55-53633415f8b9,2025-02-13,Urban Mart,Savannah,Georgia,South,Home Office,Electronics,Appliances,2,350.91,701.82,0.05,149.1,Cash
+f7ef9502-b8f5-45b9-b040-ff998ddc974f,2024-10-07,ValueHub,Detroit,Michigan,Central,Consumer,Clothing,Men,7,920.57,6443.99,0.05,1246.71,Cash
+8d71d41d-0ee9-419d-9d1c-45fb5ac5ee12,2025-06-06,QuickBuy,Seattle,Washington,West,Corporate,Groceries,Dairy,6,155.47,932.82,0.0,132.5,Credit Card
+171a9e3f-1573-4359-ae51-4c0b8aa834ac,2024-09-13,ShopEase,Detroit,Michigan,Central,Consumer,Home & Kitchen,Utensils,6,947.52,5685.12,0.2,345.04,Bank Transfer
+d5b20cc0-95f1-4896-b6c2-0a51094aa97c,2024-07-31,ValueHub,Chicago,Illinois,Central,Home Office,Groceries,Dairy,2,400.06,800.12,0.05,74.5,Bank Transfer
+4533ffea-abc6-48c7-b608-a9d315baa1a8,2024-06-09,QuickBuy,Los Angeles,California,West,Corporate,Home & Kitchen,Furniture,3,122.36,367.08,0.15,65.59,Online Payment
+518734e7-7a19-4b5a-86bb-62c6bb75c11f,2025-02-14,ShopEase,Boston,Massachusetts,East,Home Office,Electronics,Appliances,8,446.55,3572.4,0.15,441.17,Cash
+d6210474-3bba-4ff1-8ed3-9fee44961f30,2025-05-28,QuickBuy,Atlanta,Georgia,South,Home Office,Home & Kitchen,Furniture,2,42.36,84.72,0.1,18.65,Bank Transfer
+72acf13e-ab43-4b93-8269-89d1ec222a2c,2024-06-09,ShopEase,Boston,Massachusetts,East,Corporate,Clothing,Kids,2,907.39,1814.78,0.15,169.8,Bank Transfer
+8f9abab9-2263-46e0-9f57-4710352583c2,2024-08-25,ShopEase,Springfield,Illinois,Central,Home Office,Clothing,Kids,9,78.38,705.42,0.0,107.71,Credit Card
+3b470028-c505-422c-8d64-e2b2c90b7cca,2025-02-01,ShopEase,Spokane,Washington,West,Corporate,Home & Kitchen,Utensils,9,18.24,164.16,0.15,11.99,Credit Card
+d25f2af7-36e4-4836-aa42-efc810fd831d,2024-09-22,ShopEase,San Francisco,California,West,Corporate,Clothing,Women,8,624.56,4996.48,0.1,531.83,Bank Transfer
+9cb55987-2eca-4d8c-9c3a-ac30f3e48c8b,2025-04-02,Urban Mart,Buffalo,New York,East,Corporate,Clothing,Men,1,396.14,396.14,0.0,33.41,Credit Card
+fd41a8ba-2df0-4f61-a489-05ea4fa90127,2024-06-27,ShopEase,Raleigh,North Carolina,South,Home Office,Home & Kitchen,Utensils,7,805.03,5635.21,0.0,422.74,Online Payment
+92d50fe2-35bf-4a6f-8f4b-702fcb3c20bf,2024-12-13,Urban Mart,Los Angeles,California,West,Consumer,Groceries,Vegetables,3,650.44,1951.32,0.15,362.27,Bank Transfer
+172a386f-f926-4378-b811-4b6edba73cb9,2024-08-26,QuickBuy,Houston,Texas,Central,Corporate,Clothing,Men,2,167.77,335.54,0.05,63.04,Credit Card
+cdb862ea-f9e8-4cbc-ae89-292942248de2,2024-11-08,ValueHub,Orlando,Florida,South,Consumer,Home & Kitchen,Utensils,5,570.29,2851.45,0.15,145.87,Cash
+ee864381-172d-4c95-bd11-56dc09f9b071,2025-04-19,ValueHub,Savannah,Georgia,South,Home Office,Groceries,Fruits,1,488.52,488.52,0.15,63.4,Online Payment
+cf4d94fe-d9ad-469c-bde9-9cb25812646e,2024-06-28,QuickBuy,Las Vegas,Nevada,West,Home Office,Home & Kitchen,Furniture,9,65.38,588.42,0.15,113.95,Online Payment
+98ef7c6a-1ae3-486b-a31b-55aab7459847,2025-04-11,Urban Mart,Dallas,Texas,Central,Consumer,Groceries,Snacks,4,470.3,1881.2,0.15,154.18,Online Payment
+09fbab3d-aa08-47a9-987e-d52a56c390c5,2025-05-31,Metro Store,Grand Rapids,Michigan,Central,Corporate,Clothing,Kids,7,833.41,5833.87,0.1,1098.37,Bank Transfer
+5da4409f-fd83-49e7-9bc8-c4e6bc00652a,2025-03-24,QuickBuy,Boston,Massachusetts,East,Consumer,Clothing,Kids,4,158.0,632.0,0.15,37.7,Cash
+1257ecef-96f1-496a-a4d1-10ed997205b6,2025-03-07,ValueHub,Chicago,Illinois,Central,Consumer,Home & Kitchen,Utensils,6,881.14,5286.84,0.1,882.09,Credit Card
+8830bf9a-228e-4066-8da8-dac148517d64,2025-02-21,QuickBuy,San Francisco,California,West,Consumer,Clothing,Kids,2,562.86,1125.72,0.15,97.18,Cash
+9c2911d1-c633-490d-b407-ed2dacb5af33,2025-01-22,Metro Store,Reno,Nevada,West,Home Office,Electronics,Accessories,1,926.78,926.78,0.15,165.27,Credit Card
+af9dba48-44d0-4af8-8875-db970b19844b,2024-08-19,ValueHub,Las Vegas,Nevada,West,Consumer,Groceries,Fruits,2,871.13,1742.26,0.1,127.65,Cash
+ddaa721b-d312-40ef-b991-4227bddbae56,2025-05-15,Urban Mart,Raleigh,North Carolina,South,Consumer,Electronics,Appliances,6,819.52,4917.12,0.0,1080.38,Online Payment
+781857e3-acde-4420-96cc-ef641b781669,2024-12-26,ShopEase,San Francisco,California,West,Corporate,Home & Kitchen,Utensils,2,267.48,534.96,0.15,55.53,Cash
+a5a1b47c-b3e1-4234-bc4b-0dcaba3fec5a,2024-08-02,QuickBuy,Miami,Florida,South,Corporate,Clothing,Men,8,951.94,7615.52,0.2,1272.84,Bank Transfer
+30125d10-8449-45cf-a8dd-bee4c70aed26,2024-08-18,ValueHub,Miami,Florida,South,Consumer,Electronics,Phones,6,316.17,1897.02,0.05,246.56,Credit Card
+79e20a3d-8bb9-45e9-9eb3-c5239f5bccd7,2024-09-10,ValueHub,Philadelphia,Pennsylvania,East,Corporate,Home & Kitchen,Furniture,7,886.01,6202.07,0.2,1114.93,Bank Transfer
+ffe36f64-3243-4e54-a8c6-e4236fa00be4,2024-11-03,QuickBuy,Seattle,Washington,West,Corporate,Electronics,Accessories,9,625.11,5625.99,0.2,811.98,Cash
+e170d051-956c-4d62-8422-d92130bbfb3d,2024-07-05,Urban Mart,Orlando,Florida,South,Consumer,Electronics,Appliances,7,725.65,5079.55,0.05,743.59,Online Payment
+06185a0c-91da-4de0-8e88-4145615b8ba4,2024-11-13,ValueHub,Reno,Nevada,West,Corporate,Electronics,Phones,1,29.84,29.84,0.2,4.02,Cash
+b5384041-24af-4fae-bc5b-3db8f67875fe,2024-11-18,Urban Mart,Charlotte,North Carolina,South,Corporate,Clothing,Women,9,355.76,3201.84,0.0,644.57,Online Payment
+b594ae58-8b24-4096-b64f-d57e49789702,2025-03-15,QuickBuy,Detroit,Michigan,Central,Corporate,Groceries,Snacks,10,566.47,5664.7,0.2,992.0,Cash
+258168d4-8cc2-4ce2-9f90-16b1eeee1a53,2024-06-13,QuickBuy,Houston,Texas,Central,Home Office,Clothing,Women,2,329.19,658.38,0.2,46.62,Cash
+62a85dfe-a40a-4c6b-89a4-487081d10848,2025-02-20,QuickBuy,San Francisco,California,West,Consumer,Electronics,Accessories,1,426.04,426.04,0.05,58.79,Credit Card
+21581b06-4da9-47f0-9448-f26181f1685c,2025-01-08,ValueHub,Grand Rapids,Michigan,Central,Home Office,Home & Kitchen,Furniture,5,585.14,2925.7,0.15,619.98,Bank Transfer
+e3051337-f555-4fc7-9391-5ff26b80b1a6,2024-09-20,ValueHub,Miami,Florida,South,Consumer,Home & Kitchen,Decor,8,131.13,1049.04,0.2,186.86,Bank Transfer
+7b923c97-47c2-462d-99bc-20751240574e,2024-09-22,Metro Store,Atlanta,Georgia,South,Home Office,Groceries,Vegetables,2,602.4,1204.8,0.15,73.8,Online Payment
+423c9b71-5b80-4db4-a594-6c93deb4aaec,2025-03-24,Urban Mart,Chicago,Illinois,Central,Corporate,Electronics,Appliances,6,304.65,1827.9,0.15,86.38,Online Payment
+5da6d496-0fde-4fb7-a480-ebe8d4ae55bf,2024-07-18,ShopEase,Orlando,Florida,South,Consumer,Clothing,Men,8,4.08,32.64,0.2,3.13,Cash
+1b344f26-3795-4e88-a44f-d29bafab54c3,2025-02-14,ValueHub,Raleigh,North Carolina,South,Corporate,Groceries,Snacks,7,476.28,3333.96,0.2,204.2,Online Payment
+60c2b78b-a351-4179-9598-b4dae1a25f63,2024-12-14,Metro Store,Savannah,Georgia,South,Home Office,Clothing,Kids,2,800.21,1600.42,0.2,168.91,Online Payment
+386700b1-b14b-47b5-a192-6f5cf5f235d2,2024-07-04,QuickBuy,Detroit,Michigan,Central,Home Office,Clothing,Women,2,866.22,1732.44,0.0,284.81,Online Payment
+e84e0b8b-b883-4543-97fc-b141e5ee5f40,2025-04-16,Metro Store,Las Vegas,Nevada,West,Home Office,Electronics,Appliances,10,522.71,5227.1,0.15,668.8,Credit Card
+78e5aa17-7426-40fd-a286-90f8ca919d9b,2025-05-08,Metro Store,Buffalo,New York,East,Consumer,Groceries,Fruits,2,807.31,1614.62,0.2,147.36,Bank Transfer
+d9e1790b-056e-4e47-a794-1eb87c5baeaa,2024-10-06,Metro Store,Spokane,Washington,West,Corporate,Groceries,Snacks,9,318.75,2868.75,0.1,176.1,Credit Card
+86adde82-3450-468a-a689-594b3a779a44,2024-09-26,ShopEase,Chicago,Illinois,Central,Consumer,Groceries,Vegetables,5,952.26,4761.3,0.05,279.46,Cash
+f0f287d3-0f1e-4bd4-8423-570c0f6612da,2024-12-12,ShopEase,Las Vegas,Nevada,West,Corporate,Electronics,Phones,6,144.18,865.08,0.1,79.09,Credit Card
+4065081e-7cb5-463b-9f1e-1743e712797f,2024-10-27,QuickBuy,New York City,New York,East,Home Office,Groceries,Fruits,2,270.75,541.5,0.1,69.67,Bank Transfer
+7a790c84-c77f-49e2-8401-9ae307a47807,2024-06-14,Metro Store,Orlando,Florida,South,Consumer,Home & Kitchen,Furniture,9,963.55,8671.95,0.0,860.81,Online Payment
+dcc72c08-8b2c-447f-a91a-2a411245abe3,2024-11-14,ValueHub,Atlanta,Georgia,South,Consumer,Clothing,Women,6,541.36,3248.16,0.05,636.91,Cash
+a4c138d1-fc41-4850-aa41-2e959541a592,2024-06-20,QuickBuy,Miami,Florida,South,Home Office,Home & Kitchen,Decor,3,2.54,7.62,0.15,0.68,Online Payment
+e0794470-53bc-463e-8c1e-bff41f267853,2024-12-03,ValueHub,Atlanta,Georgia,South,Home Office,Electronics,Appliances,1,163.09,163.09,0.2,21.22,Online Payment
+c0d0f78a-2b6e-48f2-8e0f-e06d2582b709,2024-07-14,Metro Store,Charlotte,North Carolina,South,Home Office,Electronics,Phones,7,212.43,1487.01,0.2,287.27,Online Payment
+3136432f-913b-4bfe-a472-46dda0be7ec3,2024-11-18,QuickBuy,Grand Rapids,Michigan,Central,Corporate,Electronics,Appliances,6,342.95,2057.7,0.15,422.92,Cash
+d92a8342-947e-483d-8978-a2206e6b8187,2025-01-13,ValueHub,Philadelphia,Pennsylvania,East,Corporate,Electronics,Phones,1,673.36,673.36,0.15,92.24,Credit Card
+2e858b56-a1dc-463a-84f7-3e98dcc64321,2024-12-18,ValueHub,Las Vegas,Nevada,West,Consumer,Home & Kitchen,Utensils,2,354.29,708.58,0.15,129.79,Bank Transfer
+78657165-9ce6-48c8-aaa8-5a402172bc10,2024-08-01,Urban Mart,Philadelphia,Pennsylvania,East,Corporate,Electronics,Accessories,4,445.69,1782.76,0.05,336.4,Online Payment
+0a90801b-6771-4dad-b830-d71ee247cf40,2024-06-21,ValueHub,Chicago,Illinois,Central,Home Office,Electronics,Appliances,4,235.79,943.16,0.15,195.18,Online Payment
+6395e8ab-bc86-4320-8e08-fd1d349b6b05,2024-11-17,Urban Mart,Charlotte,North Carolina,South,Consumer,Groceries,Dairy,2,870.18,1740.36,0.2,208.93,Bank Transfer
+928e843e-fe04-4da1-aa0b-8691bef142c4,2025-04-08,Urban Mart,Philadelphia,Pennsylvania,East,Home Office,Clothing,Kids,2,129.18,258.36,0.2,45.7,Cash
+eeb64807-48e0-44b6-beb8-5c1d74805af5,2024-10-06,ValueHub,Reno,Nevada,West,Corporate,Electronics,Phones,7,641.68,4491.76,0.0,991.65,Credit Card
+0aed73be-2e85-49b2-8068-b5f0e69cc4dc,2024-12-29,ValueHub,Atlanta,Georgia,South,Corporate,Electronics,Accessories,6,518.22,3109.32,0.0,705.07,Bank Transfer
+b61b516e-b3e8-48b2-a501-aa5da93718f3,2024-07-16,ShopEase,Dallas,Texas,Central,Consumer,Clothing,Men,4,336.04,1344.16,0.2,227.47,Bank Transfer
+0ac30b1e-cfc6-4c0c-94bc-e7ddc5e735e1,2025-04-20,Metro Store,Miami,Florida,South,Consumer,Clothing,Kids,5,64.72,323.6,0.0,17.98,Online Payment
+e77e10c0-56f0-47e7-a13a-910ca7432587,2025-01-06,Urban Mart,Houston,Texas,Central,Corporate,Home & Kitchen,Furniture,6,832.85,4997.1,0.1,692.31,Cash
+3ad0091f-847f-4328-bc70-c648e104cdf4,2024-11-01,ValueHub,Orlando,Florida,South,Consumer,Clothing,Men,1,916.88,916.88,0.15,87.8,Credit Card
+afe3515d-897a-4a69-8086-18044fc1cc81,2024-09-04,ShopEase,Seattle,Washington,West,Home Office,Groceries,Vegetables,2,103.62,207.24,0.0,33.54,Bank Transfer
+d4e02d28-e6ce-4435-8d4a-794a6d1de03b,2024-09-12,Metro Store,Orlando,Florida,South,Home Office,Electronics,Accessories,8,385.15,3081.2,0.15,591.87,Credit Card
+d3891629-5834-4efb-b806-2ec6c25e4a98,2024-08-07,ValueHub,Spokane,Washington,West,Consumer,Groceries,Dairy,2,14.26,28.52,0.0,4.81,Credit Card
+5920f956-46a4-4d13-9362-dc53fd9c75c2,2025-05-25,ShopEase,Pittsburgh,Pennsylvania,East,Corporate,Clothing,Kids,10,445.74,4457.4,0.05,328.32,Bank Transfer
+d744ec14-5d2a-4133-9cfb-0b820c93d18c,2025-01-23,ValueHub,Worcester,Massachusetts,East,Home Office,Groceries,Fruits,5,584.5,2922.5,0.2,479.52,Online Payment
+f21b36c6-0f9b-4813-81cc-42bda6c3d0e2,2025-02-20,ShopEase,Grand Rapids,Michigan,Central,Corporate,Clothing,Women,9,587.27,5285.43,0.05,308.62,Credit Card
+4a249172-f5ad-4bb9-b080-050ad380e83d,2025-03-13,Metro Store,Chicago,Illinois,Central,Consumer,Groceries,Snacks,4,668.52,2674.08,0.15,386.3,Online Payment
+1ab6e19b-fae3-4458-9d95-b8b23fbefe08,2024-11-10,QuickBuy,Grand Rapids,Michigan,Central,Corporate,Electronics,Appliances,2,455.39,910.78,0.0,135.88,Cash
+6be6139b-a351-4676-97e9-16c705652f64,2025-03-24,Metro Store,Boston,Massachusetts,East,Corporate,Groceries,Vegetables,7,206.91,1448.37,0.05,296.13,Online Payment
+2c17d46f-ee9f-4714-a3bd-c5648c19e6e6,2024-12-27,Urban Mart,San Francisco,California,West,Home Office,Groceries,Dairy,3,292.0,876.0,0.05,146.69,Credit Card
+12d614f2-d810-420c-b221-d291376bd2b5,2024-06-17,ShopEase,Los Angeles,California,West,Consumer,Electronics,Phones,5,719.4,3597.0,0.1,710.61,Cash
+1d8c4383-ee25-420b-887b-fcb8eabc6057,2024-07-29,ShopEase,New York City,New York,East,Consumer,Clothing,Men,3,380.16,1140.48,0.0,134.21,Credit Card
+d26c0853-c3c3-45ba-abcd-eed3b061ed59,2024-06-22,ShopEase,Orlando,Florida,South,Home Office,Clothing,Women,9,977.15,8794.35,0.2,1592.36,Cash
+b115790e-65a6-4e94-8af6-33088cf35acb,2024-06-10,Metro Store,New York City,New York,East,Home Office,Groceries,Fruits,6,319.32,1915.92,0.15,399.64,Bank Transfer
+47c4afc1-fb74-4ce7-80bd-fba99a0c16af,2024-12-07,Metro Store,Pittsburgh,Pennsylvania,East,Corporate,Clothing,Men,1,630.2,630.2,0.1,127.37,Cash
+d7b41c4a-397f-4d8f-be10-ab3ada329a0d,2024-08-14,Metro Store,Seattle,Washington,West,Home Office,Home & Kitchen,Furniture,9,375.52,3379.68,0.2,386.24,Bank Transfer
+b2f7c7a9-6316-4ae8-8b8d-b4ba4f99039f,2025-03-21,QuickBuy,Grand Rapids,Michigan,Central,Corporate,Electronics,Appliances,10,402.14,4021.4,0.2,578.91,Online Payment
+fa4cdd75-fcfd-4068-a3b4-d5d76c63c99c,2025-04-18,QuickBuy,Boston,Massachusetts,East,Consumer,Clothing,Men,7,888.93,6222.51,0.2,405.42,Online Payment
+284c7e98-791b-4650-9278-2dfc0f7a0e65,2024-08-08,ShopEase,Los Angeles,California,West,Corporate,Electronics,Accessories,4,584.79,2339.16,0.15,303.12,Online Payment
+ecac20ca-e16f-40fc-b341-4cdff5267048,2024-12-25,QuickBuy,Savannah,Georgia,South,Corporate,Electronics,Accessories,6,274.47,1646.82,0.0,141.48,Bank Transfer
+fb4950ad-bf21-45d3-a63c-a1535e9d6878,2025-01-10,ShopEase,Seattle,Washington,West,Home Office,Clothing,Women,5,926.75,4633.75,0.0,341.59,Credit Card
+cd40953d-8b09-4ed4-a43a-89a6f766b1c4,2024-09-21,ShopEase,Boston,Massachusetts,East,Corporate,Electronics,Phones,5,192.26,961.3,0.2,191.95,Online Payment
+3d4ff3b8-ad28-47f3-8634-7351b20f0320,2025-02-22,QuickBuy,Dallas,Texas,Central,Corporate,Electronics,Phones,8,654.78,5238.24,0.05,1110.19,Credit Card
+6b5985c2-2ac5-45e2-a27b-2237367a9d60,2025-04-24,ValueHub,Boston,Massachusetts,East,Home Office,Clothing,Men,8,341.98,2735.84,0.0,308.1,Bank Transfer
+a1653041-2aa2-479a-8d86-22f2923b9c95,2025-05-17,QuickBuy,Orlando,Florida,South,Home Office,Clothing,Women,6,140.67,844.02,0.05,89.09,Credit Card
+86ef9fa5-068d-4c70-830e-f140d8b44a93,2025-03-01,QuickBuy,Houston,Texas,Central,Corporate,Groceries,Snacks,9,301.04,2709.36,0.2,118.45,Bank Transfer
+1e07d712-00c5-40f2-b384-ebe0becd71dd,2024-07-20,QuickBuy,Worcester,Massachusetts,East,Consumer,Groceries,Vegetables,2,535.42,1070.84,0.05,147.46,Bank Transfer
+d346a7a2-f9ff-4531-a0ef-e4353c9698e4,2024-10-17,Urban Mart,Raleigh,North Carolina,South,Consumer,Electronics,Appliances,9,179.28,1613.52,0.2,190.68,Credit Card
+24e61366-25d3-4a0e-828c-6323c93ac48f,2024-10-15,Metro Store,Spokane,Washington,West,Consumer,Clothing,Men,9,71.84,646.56,0.0,80.0,Online Payment
+d17a5a52-898a-459a-b253-dd88ec7d356c,2024-08-29,Metro Store,Dallas,Texas,Central,Consumer,Groceries,Vegetables,9,419.58,3776.22,0.0,482.6,Cash
+568efd5d-bd21-4642-8c6c-9245f4dae377,2024-12-05,QuickBuy,Worcester,Massachusetts,East,Consumer,Clothing,Men,10,204.57,2045.7,0.15,182.73,Online Payment
+0008309c-4fb8-4add-b5d5-25591327b5f9,2024-08-10,ValueHub,Orlando,Florida,South,Consumer,Groceries,Vegetables,10,879.48,8794.8,0.15,1065.56,Online Payment
+825f67f7-87c2-4842-88b5-45d6b20d4af2,2025-05-06,ShopEase,Grand Rapids,Michigan,Central,Home Office,Groceries,Fruits,7,613.8,4296.6,0.05,542.92,Online Payment
+188aad0e-72ad-4510-9930-b549114549d2,2024-10-22,Metro Store,Savannah,Georgia,South,Home Office,Clothing,Kids,7,699.25,4894.75,0.0,479.39,Credit Card
+8e8cd785-d4c4-4c07-b006-6fb2d1426747,2025-01-25,Metro Store,Detroit,Michigan,Central,Corporate,Clothing,Women,9,122.99,1106.91,0.1,65.06,Bank Transfer
+772eeb50-c913-43c8-bcdb-06ceb6c7ccef,2025-03-12,ShopEase,Atlanta,Georgia,South,Consumer,Groceries,Dairy,8,28.66,229.28,0.15,24.6,Credit Card
+95a537e4-5fe3-41f4-989d-f58239a8488c,2024-11-13,ShopEase,Miami,Florida,South,Consumer,Home & Kitchen,Furniture,6,670.95,4025.7,0.15,502.85,Cash
+fbe3da2c-7cc1-452e-9743-13b95c81041f,2025-02-12,Metro Store,Pittsburgh,Pennsylvania,East,Corporate,Groceries,Fruits,3,172.25,516.75,0.0,88.57,Online Payment
+258c4a0b-3463-4985-b355-28fa0be95ea7,2024-07-21,Metro Store,Reno,Nevada,West,Consumer,Clothing,Women,5,155.19,775.95,0.1,59.77,Credit Card
+6e0b62e8-c31a-4f1e-ab22-523c9edbcaf6,2025-03-15,ValueHub,Charlotte,North Carolina,South,Home Office,Groceries,Vegetables,7,690.97,4836.79,0.15,248.66,Credit Card
+e903ab9f-df35-4357-8bf7-24c65e3bea9f,2025-02-20,ShopEase,Miami,Florida,South,Consumer,Groceries,Fruits,2,18.01,36.02,0.0,8.93,Cash
+f94ba303-3e86-4226-a4ef-c9a4a781b398,2024-10-18,Metro Store,Los Angeles,California,West,Home Office,Electronics,Phones,1,416.85,416.85,0.0,88.84,Cash
+6cc00635-0619-4aae-a911-57a7caca725a,2024-10-23,ValueHub,Philadelphia,Pennsylvania,East,Corporate,Electronics,Appliances,2,233.94,467.88,0.0,56.76,Bank Transfer
+e42a8ade-a18c-43df-a9b4-9661715bfd45,2024-09-15,Urban Mart,Raleigh,North Carolina,South,Corporate,Clothing,Men,8,221.66,1773.28,0.1,287.25,Cash
+c5cb109e-eb4d-4818-a67d-eb76abce84ea,2024-06-26,ShopEase,San Francisco,California,West,Home Office,Electronics,Phones,2,713.11,1426.22,0.2,96.17,Bank Transfer
+bbcee68b-11b3-480a-bf9f-16f5507a734f,2025-01-28,ShopEase,Charlotte,North Carolina,South,Consumer,Groceries,Dairy,8,69.38,555.04,0.0,95.3,Online Payment
+d12fc2c1-844d-43d8-a3e4-2fb9d78c035e,2024-10-02,Metro Store,Philadelphia,Pennsylvania,East,Consumer,Home & Kitchen,Utensils,5,237.92,1189.6,0.15,203.7,Credit Card
+e20656c5-c8b8-48ea-b6af-1d28a68ba7bf,2025-03-11,ShopEase,Worcester,Massachusetts,East,Consumer,Groceries,Fruits,7,205.98,1441.86,0.0,140.74,Cash
+fa6996eb-e93d-41c3-98fc-706f984ec7ca,2025-04-16,ShopEase,Springfield,Illinois,Central,Home Office,Home & Kitchen,Decor,9,792.2,7129.8,0.15,1088.49,Credit Card
+babaebbb-d6c6-4a22-9bde-60b77edadda9,2024-08-07,ShopEase,Pittsburgh,Pennsylvania,East,Consumer,Electronics,Phones,9,55.97,503.73,0.05,100.63,Cash
+623bd5c9-daee-4956-8f40-3d792d33c9c8,2024-11-19,Metro Store,Raleigh,North Carolina,South,Corporate,Clothing,Kids,2,870.13,1740.26,0.0,418.94,Credit Card
+a57dd366-1b6c-4afc-8196-8b90cb15fa0b,2024-10-18,Metro Store,New York City,New York,East,Home Office,Groceries,Vegetables,4,508.41,2033.64,0.15,337.07,Cash
+3e22fd87-d64b-4c05-8d43-ca9cbaa26a9b,2024-08-06,Metro Store,Buffalo,New York,East,Home Office,Electronics,Phones,5,286.78,1433.9,0.15,296.84,Cash
+a42d4131-4c88-41d1-8a3b-84687a95d89e,2025-03-23,QuickBuy,Orlando,Florida,South,Corporate,Clothing,Women,8,442.49,3539.92,0.2,486.75,Cash
+374851c2-4281-47d7-8923-fcffb0fb692f,2024-12-07,QuickBuy,Orlando,Florida,South,Consumer,Home & Kitchen,Furniture,10,538.12,5381.2,0.2,840.89,Online Payment
+45861bb5-533e-48f5-a533-aa7fbe0ef201,2024-07-24,ShopEase,Savannah,Georgia,South,Corporate,Electronics,Accessories,2,334.57,669.14,0.15,50.7,Bank Transfer
+32473b20-5b84-4888-b2a4-ed686eafc3d0,2025-04-12,QuickBuy,Reno,Nevada,West,Corporate,Clothing,Men,7,970.55,6793.85,0.1,775.36,Bank Transfer
+3107cb27-317c-479d-a41a-361ebd14e045,2025-03-07,Urban Mart,Seattle,Washington,West,Corporate,Electronics,Appliances,4,763.42,3053.68,0.1,561.35,Cash
+cda0bc24-b4bd-48cf-96f5-55085bf0eec1,2024-10-02,Urban Mart,Raleigh,North Carolina,South,Home Office,Electronics,Appliances,7,736.19,5153.33,0.05,712.54,Bank Transfer
+0f1a7361-bc9f-49a1-9596-0affe37f1842,2024-09-10,ShopEase,Las Vegas,Nevada,West,Home Office,Electronics,Appliances,3,255.78,767.34,0.2,101.7,Bank Transfer
+e2dd4dbd-0d5d-4dfe-9e95-78d8ea965a46,2025-04-05,QuickBuy,San Francisco,California,West,Home Office,Clothing,Men,9,910.13,8191.17,0.15,579.03,Credit Card
+fe0a5b76-eb4d-48e0-baff-0dcb58195b2b,2024-07-18,ValueHub,Grand Rapids,Michigan,Central,Corporate,Home & Kitchen,Utensils,2,111.06,222.12,0.2,36.49,Bank Transfer
+2a65b68f-3ef3-4caa-9973-d5b7504dcfb0,2024-11-19,QuickBuy,Detroit,Michigan,Central,Home Office,Electronics,Phones,1,987.05,987.05,0.15,42.21,Online Payment
+befd52b6-3e35-40fa-99f1-0e82919a2143,2025-01-31,QuickBuy,Raleigh,North Carolina,South,Consumer,Groceries,Snacks,6,188.03,1128.18,0.05,96.04,Cash
+713c813c-d301-4e85-972a-6741c17e7dbb,2025-02-23,Metro Store,Seattle,Washington,West,Consumer,Clothing,Kids,3,809.56,2428.68,0.05,235.04,Credit Card
+483e4136-191c-47c0-8733-577278a19ef5,2025-04-16,Urban Mart,Las Vegas,Nevada,West,Corporate,Home & Kitchen,Utensils,7,126.43,885.01,0.0,104.81,Credit Card
+be57726b-e367-4534-87d7-975748eceb74,2025-02-22,Urban Mart,Charlotte,North Carolina,South,Consumer,Clothing,Women,1,665.99,665.99,0.0,46.2,Online Payment
+e44ae5aa-88f2-45b9-9e4c-b61a4e702224,2024-08-31,ShopEase,Dallas,Texas,Central,Home Office,Groceries,Snacks,6,372.04,2232.24,0.1,502.03,Bank Transfer
+0cf40063-9ae8-437c-ae08-519eeebf7431,2025-03-19,ShopEase,Atlanta,Georgia,South,Corporate,Clothing,Women,1,458.01,458.01,0.15,75.93,Credit Card
+4cdef091-0ff1-4f86-abba-fccceefb9188,2024-06-20,Metro Store,Reno,Nevada,West,Corporate,Clothing,Men,10,686.81,6868.1,0.15,893.1,Bank Transfer
+a122404e-90dc-4efc-9ed3-aefa2bcc9030,2024-11-14,Urban Mart,Springfield,Illinois,Central,Home Office,Clothing,Men,8,235.09,1880.72,0.15,207.87,Online Payment
+a32a2f07-2740-4f79-a298-d195fa8d1c36,2025-06-02,QuickBuy,Atlanta,Georgia,South,Corporate,Groceries,Dairy,3,870.12,2610.36,0.2,432.22,Cash
+b10341aa-c14f-4627-848c-991f8f41121a,2025-04-06,ValueHub,Orlando,Florida,South,Corporate,Groceries,Vegetables,8,955.14,7641.12,0.15,1185.51,Cash
+130565be-3bc5-477b-9ddf-b9d50cd12a91,2024-10-02,Urban Mart,New York City,New York,East,Corporate,Clothing,Men,3,929.15,2787.45,0.1,578.33,Credit Card
+57c9d034-bfa1-4e61-bec1-2f6b5888405c,2025-06-07,Urban Mart,Grand Rapids,Michigan,Central,Home Office,Electronics,Phones,9,634.28,5708.52,0.15,330.38,Cash
+99221e55-4617-4718-b779-95cf98ea391e,2025-02-17,QuickBuy,Reno,Nevada,West,Home Office,Electronics,Phones,9,966.32,8696.88,0.15,1564.88,Bank Transfer
+6993e2e4-b866-465c-a810-72ffada640a5,2024-07-01,Urban Mart,Seattle,Washington,West,Consumer,Clothing,Women,10,937.34,9373.4,0.0,1542.56,Online Payment
+7cac918c-733b-4107-88b0-b57508d5da16,2024-08-22,ShopEase,Charlotte,North Carolina,South,Consumer,Clothing,Women,7,979.89,6859.23,0.1,1260.94,Cash
+1d8a4d71-057a-4b52-a726-40c2b71041ef,2025-06-09,Urban Mart,Buffalo,New York,East,Home Office,Clothing,Kids,6,146.41,878.46,0.1,171.91,Bank Transfer
+dfe11547-43c7-41e0-bf0d-4cf585f205fd,2025-03-09,Metro Store,Orlando,Florida,South,Home Office,Home & Kitchen,Decor,10,321.5,3215.0,0.2,638.03,Credit Card
+7551b24d-a21d-4400-8881-3f40ef034ef1,2025-06-02,QuickBuy,Charlotte,North Carolina,South,Corporate,Groceries,Dairy,1,981.18,981.18,0.1,71.12,Bank Transfer
+83a493e7-cee6-458d-98f7-6fe4d9e84b50,2025-04-14,Metro Store,Philadelphia,Pennsylvania,East,Corporate,Clothing,Kids,5,984.42,4922.1,0.05,1160.64,Bank Transfer
+40d28331-8c03-4415-b581-2abbfe0585f7,2024-06-30,ShopEase,Raleigh,North Carolina,South,Corporate,Home & Kitchen,Utensils,2,528.79,1057.58,0.1,101.34,Bank Transfer
+92e82b75-27ef-42d4-a423-58d5328bb6b5,2024-06-23,ShopEase,Miami,Florida,South,Home Office,Clothing,Kids,5,458.62,2293.1,0.05,360.38,Credit Card
+e1a2901b-0043-4dd9-95a9-081849183ca4,2025-01-22,Metro Store,Atlanta,Georgia,South,Consumer,Home & Kitchen,Decor,1,363.5,363.5,0.2,20.47,Cash
+776a5068-2ee2-4faf-9f0f-a992886b6012,2025-05-12,Urban Mart,Charlotte,North Carolina,South,Consumer,Clothing,Women,8,181.27,1450.16,0.0,106.54,Online Payment
+b25cb85c-7ba7-4e91-9d98-9159035f1c46,2024-07-10,Metro Store,Orlando,Florida,South,Consumer,Electronics,Appliances,4,397.85,1591.4,0.1,268.69,Credit Card
+6e247ed9-16b3-403d-9191-e1c6bb47338f,2024-12-22,QuickBuy,Charlotte,North Carolina,South,Home Office,Clothing,Kids,5,633.07,3165.35,0.15,332.19,Bank Transfer
+f06830c1-8775-4cfe-a061-d465cba662a9,2025-02-06,ValueHub,San Francisco,California,West,Consumer,Groceries,Fruits,10,573.84,5738.4,0.2,669.78,Credit Card
+c4c12eef-0cc8-4fcc-8048-613bc0f5d4ae,2024-08-27,ShopEase,Savannah,Georgia,South,Home Office,Groceries,Vegetables,2,326.58,653.16,0.2,45.45,Cash
+c8d59b84-43b5-4f48-b04b-b02185a3f913,2024-10-29,Metro Store,Miami,Florida,South,Home Office,Groceries,Snacks,3,862.28,2586.84,0.05,125.49,Credit Card
+38303800-0b6b-4d79-bdc2-a513fbb4fe06,2024-12-21,ValueHub,Los Angeles,California,West,Consumer,Home & Kitchen,Utensils,2,563.37,1126.74,0.0,75.4,Cash
+3145b0c2-8eff-4dc3-859f-97485c669639,2024-06-11,QuickBuy,Detroit,Michigan,Central,Home Office,Groceries,Dairy,4,302.0,1208.0,0.2,223.16,Credit Card
+f2c08b8a-fdf2-4ad7-9904-5128e3197506,2024-06-22,ShopEase,Orlando,Florida,South,Home Office,Electronics,Appliances,10,539.13,5391.3,0.05,960.77,Online Payment
+6f9321cb-6d95-42e6-a6ed-41a4d5af10d3,2024-08-07,ShopEase,Los Angeles,California,West,Consumer,Groceries,Vegetables,10,552.97,5529.7,0.2,538.87,Cash
+ca2812c3-7448-4761-a869-6cd91a512866,2024-12-14,ShopEase,Orlando,Florida,South,Corporate,Clothing,Kids,7,457.16,3200.12,0.1,533.7,Cash
+58f37dca-b682-4c57-8cf6-1287d2636c3c,2024-12-10,Metro Store,Buffalo,New York,East,Home Office,Clothing,Kids,10,658.0,6580.0,0.2,900.09,Online Payment
+241c371f-c868-43a1-a49b-3b7c3830a215,2025-01-26,Urban Mart,Dallas,Texas,Central,Home Office,Home & Kitchen,Furniture,2,271.58,543.16,0.2,31.29,Cash
+fdb53f87-72d5-47cf-a5a2-3c98f146a3e1,2025-01-06,ShopEase,Detroit,Michigan,Central,Corporate,Home & Kitchen,Furniture,3,869.12,2607.36,0.05,259.41,Online Payment
+0bbe34c6-3dce-47cb-abcf-3e7695ae88c7,2024-08-14,Urban Mart,Boston,Massachusetts,East,Consumer,Groceries,Snacks,10,821.7,8217.0,0.15,482.68,Online Payment
+1d00abae-34ed-415b-bcda-f9820c0e9b20,2024-09-29,ValueHub,Grand Rapids,Michigan,Central,Consumer,Electronics,Appliances,3,319.36,958.08,0.15,70.15,Credit Card
+6979d45b-3b93-457a-bc6d-2b2d54655c56,2025-05-30,ValueHub,Boston,Massachusetts,East,Home Office,Home & Kitchen,Utensils,3,144.38,433.14,0.2,68.29,Cash
+16346de8-f7aa-472c-86aa-96ec2dac24e4,2025-02-17,QuickBuy,Pittsburgh,Pennsylvania,East,Consumer,Groceries,Dairy,6,798.87,4793.22,0.2,411.7,Bank Transfer
+60c1dde4-79d5-45a5-8be5-311a74da0c0e,2025-05-08,ShopEase,Boston,Massachusetts,East,Corporate,Home & Kitchen,Decor,2,635.41,1270.82,0.0,249.07,Online Payment
+6c1f3783-65fd-4ea4-adb3-2d3745ef326e,2025-01-30,ValueHub,San Francisco,California,West,Corporate,Groceries,Vegetables,7,677.68,4743.76,0.05,657.65,Credit Card
+03f41a5f-28e8-49da-b490-840fd957698a,2024-06-21,Urban Mart,Las Vegas,Nevada,West,Home Office,Groceries,Snacks,9,750.17,6751.53,0.05,1596.08,Bank Transfer
+44987b6d-d84e-4010-8a24-c979153f14b2,2025-04-24,Metro Store,Philadelphia,Pennsylvania,East,Consumer,Groceries,Snacks,3,514.66,1543.98,0.0,207.73,Online Payment
+f4385292-a43f-41dd-b451-c98b3f662d36,2025-03-25,Metro Store,Springfield,Illinois,Central,Home Office,Home & Kitchen,Furniture,5,300.58,1502.9,0.1,139.25,Credit Card
+b70481f4-9b01-4edf-ad3f-3e0dbcc69c92,2024-10-18,QuickBuy,Boston,Massachusetts,East,Home Office,Groceries,Snacks,1,357.03,357.03,0.2,40.58,Bank Transfer
+515751e0-b55f-4491-8e17-1b426e63d54b,2025-01-26,Metro Store,San Francisco,California,West,Corporate,Electronics,Accessories,1,103.14,103.14,0.15,7.85,Online Payment
+4c4d7faa-5540-449a-bbcb-ba79bf343562,2025-05-05,Metro Store,Seattle,Washington,West,Home Office,Clothing,Women,4,471.76,1887.04,0.1,186.57,Online Payment
+e6ec4bf6-67be-4872-886d-bf27ffb8ede4,2024-06-10,QuickBuy,Springfield,Illinois,Central,Consumer,Home & Kitchen,Furniture,6,747.6,4485.6,0.0,546.56,Cash
+e5b4161e-4559-4dd8-91bd-14afafc09e48,2024-12-22,Metro Store,Boston,Massachusetts,East,Corporate,Clothing,Men,6,901.2,5407.2,0.05,941.28,Bank Transfer
+56384eda-7368-4d87-887b-a22dbbe0b78b,2025-04-24,QuickBuy,Springfield,Illinois,Central,Home Office,Home & Kitchen,Decor,3,326.24,978.72,0.15,125.1,Bank Transfer
+7833ce12-2f5a-4210-963d-6dc2f16fc02d,2024-10-04,Metro Store,Los Angeles,California,West,Consumer,Home & Kitchen,Furniture,9,15.62,140.58,0.05,8.07,Online Payment
+88a6bc57-4f25-4442-a0fb-db91dafdc89a,2024-11-28,ShopEase,Spokane,Washington,West,Corporate,Electronics,Accessories,2,761.38,1522.76,0.05,251.02,Bank Transfer
+1e0a9901-a120-4d4a-abc3-737d3e841ece,2024-10-30,Metro Store,Springfield,Illinois,Central,Home Office,Clothing,Men,4,474.95,1899.8,0.0,361.4,Bank Transfer
+4daacb62-f24c-4e8b-99a6-9d92113910b4,2024-09-01,Metro Store,New York City,New York,East,Corporate,Clothing,Men,5,990.42,4952.1,0.05,636.33,Credit Card
+3ce92d9c-ad81-4309-8e48-375d722c1f33,2024-12-27,ValueHub,Spokane,Washington,West,Corporate,Clothing,Men,4,337.51,1350.04,0.15,71.46,Cash
+4388d965-15b0-4c00-8ab3-fac33960fb1e,2024-10-09,ShopEase,Seattle,Washington,West,Corporate,Home & Kitchen,Decor,6,712.16,4272.96,0.05,462.63,Online Payment
+cc5fdda0-6a59-4f21-96be-98522369bfaa,2024-10-04,ShopEase,Los Angeles,California,West,Consumer,Groceries,Vegetables,8,281.6,2252.8,0.2,126.43,Online Payment
+3a59ff6d-5eff-45ba-ac05-2c8e6fd7a9cb,2024-11-04,ShopEase,Savannah,Georgia,South,Consumer,Clothing,Women,1,683.6,683.6,0.05,75.49,Credit Card
+3cb171bd-6c65-48aa-804e-e5ccd090bf6e,2024-10-12,Metro Store,Springfield,Illinois,Central,Home Office,Electronics,Appliances,2,887.42,1774.84,0.05,296.6,Bank Transfer
+2d1fa704-c95c-47d0-9ee5-a45c301602ab,2024-10-14,Urban Mart,Buffalo,New York,East,Consumer,Groceries,Fruits,5,725.9,3629.5,0.05,540.35,Online Payment
+2a2e8f00-b5a7-45fe-8997-ca862642251b,2024-12-05,ValueHub,Buffalo,New York,East,Home Office,Clothing,Men,9,975.18,8776.62,0.1,1103.46,Online Payment
+ed0cb4d4-0e84-43f6-aa18-c7ddb0bbf236,2025-05-06,ValueHub,Spokane,Washington,West,Home Office,Groceries,Snacks,3,599.96,1799.88,0.05,184.55,Credit Card
+b560aec8-35e3-43f8-9ad2-7d9cb340847b,2024-11-04,Metro Store,Atlanta,Georgia,South,Corporate,Groceries,Vegetables,9,779.81,7018.29,0.15,1022.76,Bank Transfer
+73b261d4-5d75-429d-8f77-7bd5e5fd7f08,2024-11-12,ValueHub,Los Angeles,California,West,Home Office,Clothing,Men,9,456.53,4108.77,0.2,334.51,Credit Card
+f4c4981f-6736-4c96-81b6-85a5c45c2a4f,2024-06-17,Metro Store,Detroit,Michigan,Central,Consumer,Clothing,Women,9,239.74,2157.66,0.0,383.9,Credit Card
+2e572487-a67f-44d4-804f-0025c1bd9584,2024-07-12,Metro Store,Chicago,Illinois,Central,Home Office,Electronics,Phones,1,649.35,649.35,0.2,126.98,Credit Card
+2c18dff4-bfbd-40f5-a59e-8e6bcfa119c5,2025-01-04,QuickBuy,Detroit,Michigan,Central,Home Office,Electronics,Phones,6,985.29,5911.74,0.0,1269.76,Online Payment
+9a790956-4652-48db-b0ab-a69f84a2f49a,2025-03-10,Urban Mart,Springfield,Illinois,Central,Home Office,Clothing,Kids,7,945.76,6620.32,0.1,1334.69,Credit Card
+b56e0650-256e-4f34-b0f2-8ff8d749574b,2025-01-20,Metro Store,Worcester,Massachusetts,East,Home Office,Clothing,Women,3,447.16,1341.48,0.15,141.08,Bank Transfer
+31d121af-0df6-44cf-8b89-10f540c67c6f,2025-05-16,Metro Store,Orlando,Florida,South,Consumer,Home & Kitchen,Furniture,10,491.54,4915.4,0.05,838.26,Cash
+1d852291-66d4-458a-8833-8f43ea8b3ada,2025-01-02,ValueHub,Buffalo,New York,East,Consumer,Groceries,Dairy,3,73.9,221.7,0.05,29.7,Credit Card
+d3f472a6-1ca6-4e49-8f22-ab3289da38f5,2025-05-13,ValueHub,Philadelphia,Pennsylvania,East,Consumer,Home & Kitchen,Furniture,7,22.67,158.69,0.0,32.16,Bank Transfer
+10a5beb8-e90b-406f-96be-7b00f0117b10,2024-09-11,Metro Store,Buffalo,New York,East,Home Office,Groceries,Vegetables,1,957.7,957.7,0.0,151.77,Credit Card
+5ef9f268-b191-438a-9def-ee935e0351ff,2024-09-19,QuickBuy,Los Angeles,California,West,Home Office,Electronics,Appliances,3,308.77,926.31,0.15,63.7,Bank Transfer
+937a4c9a-8080-47e7-995f-954268e1c16e,2024-08-17,Urban Mart,Los Angeles,California,West,Home Office,Groceries,Dairy,2,512.52,1025.04,0.15,68.28,Online Payment
+8e1a2ed3-d59d-4031-ab2d-c29dbc2608ff,2025-04-12,Metro Store,Worcester,Massachusetts,East,Corporate,Clothing,Men,4,921.85,3687.4,0.15,587.22,Online Payment
+94d4dd4c-ac4d-47c7-88b1-ac8f2c4ed2eb,2024-09-28,Urban Mart,New York City,New York,East,Corporate,Groceries,Snacks,2,616.47,1232.94,0.0,150.54,Online Payment
+f9b020ba-fbd1-442e-9a1e-c30dc1c84835,2024-08-03,ValueHub,Buffalo,New York,East,Corporate,Groceries,Fruits,7,151.92,1063.44,0.1,167.45,Cash
+99257cd4-95d1-480d-8434-e3b0ebbb79de,2024-12-14,ShopEase,Spokane,Washington,West,Corporate,Electronics,Accessories,1,861.99,861.99,0.05,168.33,Credit Card
+48a8bd77-9a78-417a-bfcf-76255d610cbb,2025-01-24,QuickBuy,Worcester,Massachusetts,East,Consumer,Clothing,Women,10,428.6,4286.0,0.1,304.48,Credit Card
+cb046b52-637c-42f3-abff-c3822e416b23,2025-04-16,ShopEase,Worcester,Massachusetts,East,Corporate,Electronics,Phones,8,694.03,5552.24,0.15,803.94,Bank Transfer
+240c21b3-4596-45ae-81cd-cd624f1f50d0,2024-09-23,ValueHub,Worcester,Massachusetts,East,Corporate,Electronics,Phones,9,537.14,4834.26,0.05,582.91,Bank Transfer
+d0bfd6c0-3a39-4268-bd35-1d1fff4c65a3,2024-10-04,Metro Store,Philadelphia,Pennsylvania,East,Corporate,Home & Kitchen,Decor,4,993.92,3975.68,0.0,486.94,Credit Card
+78bc69d7-6175-4585-afcd-ef73dcc248da,2024-08-25,ShopEase,San Francisco,California,West,Consumer,Home & Kitchen,Furniture,8,145.85,1166.8,0.2,228.1,Online Payment
+7164603e-7487-4b2a-ac6a-0ba1a7ec1fa1,2024-07-31,Metro Store,New York City,New York,East,Consumer,Home & Kitchen,Furniture,7,733.62,5135.34,0.15,542.74,Cash
+90b8d58a-092b-4461-8745-47d944ed6699,2024-10-04,Urban Mart,Charlotte,North Carolina,South,Consumer,Groceries,Fruits,3,80.84,242.52,0.0,12.73,Online Payment
+47ba95f2-52cf-4b81-977a-87fa7ba01a9f,2024-12-03,ValueHub,Boston,Massachusetts,East,Home Office,Home & Kitchen,Furniture,8,412.7,3301.6,0.1,412.42,Online Payment
+ee3fd916-0503-437a-af9d-7341a8a04a3e,2024-07-20,Urban Mart,Los Angeles,California,West,Home Office,Groceries,Dairy,9,162.03,1458.27,0.15,268.4,Cash
+0255e952-112a-4e79-8aff-5015eb345748,2025-05-30,Metro Store,Grand Rapids,Michigan,Central,Corporate,Home & Kitchen,Decor,5,973.18,4865.9,0.2,488.58,Cash
+39821cfd-b9d7-423f-b73a-7d446ed3d315,2025-02-17,Metro Store,Boston,Massachusetts,East,Corporate,Clothing,Kids,9,605.87,5452.83,0.0,1163.15,Cash
+bcaccb6a-69a3-4e57-9dc2-7ee33e2a0617,2025-05-10,QuickBuy,Grand Rapids,Michigan,Central,Consumer,Home & Kitchen,Utensils,6,647.35,3884.1,0.05,383.69,Credit Card
+dc724945-b0cc-4087-b516-89c8a84b7813,2024-10-01,Urban Mart,Grand Rapids,Michigan,Central,Consumer,Groceries,Fruits,3,542.48,1627.44,0.0,150.35,Online Payment
+63ac65ca-7bcd-485f-a7ce-e029cd83ee2b,2024-10-19,Urban Mart,Philadelphia,Pennsylvania,East,Consumer,Groceries,Dairy,2,976.71,1953.42,0.2,92.16,Online Payment
+478eb40e-ce07-4b46-a545-e1171b8ce3c9,2025-03-14,ShopEase,Seattle,Washington,West,Consumer,Home & Kitchen,Furniture,5,958.82,4794.1,0.2,341.25,Online Payment
+e4157c95-de11-41cf-bd92-63a6f323fd0b,2024-09-30,ShopEase,Chicago,Illinois,Central,Corporate,Home & Kitchen,Decor,9,807.88,7270.92,0.05,378.09,Credit Card
+853265ab-d7d6-4a78-b424-c9e975aa43dd,2025-05-14,Metro Store,Seattle,Washington,West,Home Office,Home & Kitchen,Utensils,2,885.43,1770.86,0.0,426.0,Bank Transfer
+c0bff02a-11f8-427b-a89d-65034021d80d,2025-01-06,ValueHub,Philadelphia,Pennsylvania,East,Home Office,Clothing,Men,8,785.78,6286.24,0.1,611.97,Online Payment
+28ca1c74-5d62-4251-8cf1-13fb95f9102a,2025-04-20,ValueHub,Miami,Florida,South,Home Office,Home & Kitchen,Furniture,3,567.77,1703.31,0.15,100.6,Credit Card
+c933248f-3bad-4304-88a1-f9cc0a7a09fc,2024-12-04,QuickBuy,Detroit,Michigan,Central,Consumer,Groceries,Vegetables,6,171.38,1028.28,0.1,76.16,Bank Transfer
+007677b6-5d81-49b3-ab88-5bc056a69a1d,2025-05-07,Urban Mart,Houston,Texas,Central,Consumer,Electronics,Appliances,5,986.17,4930.85,0.1,899.22,Bank Transfer
+1bc7d904-f4b9-4595-96b7-6e608f8d2249,2025-02-27,Urban Mart,Buffalo,New York,East,Corporate,Home & Kitchen,Decor,7,410.22,2871.54,0.2,536.24,Online Payment
+b80bff3f-9e07-45ff-95c6-c31b4f347d02,2025-02-22,ShopEase,Grand Rapids,Michigan,Central,Consumer,Clothing,Women,9,451.19,4060.71,0.0,707.06,Bank Transfer
+b2805f7a-a3f7-46ea-acc4-9e33d980ef45,2025-05-11,ShopEase,Los Angeles,California,West,Corporate,Groceries,Vegetables,10,400.48,4004.8,0.0,378.9,Cash
+38a7476f-df94-44a6-bf21-6d9835e82707,2024-10-17,QuickBuy,Spokane,Washington,West,Home Office,Home & Kitchen,Decor,2,87.65,175.3,0.0,40.93,Bank Transfer
+91a91eff-3e4d-4e60-bb46-daaeb6d96acb,2024-07-17,Urban Mart,Worcester,Massachusetts,East,Corporate,Home & Kitchen,Utensils,10,487.32,4873.2,0.15,301.82,Online Payment
+a3491484-bb60-4f21-b4e6-b63e156e0120,2025-05-02,Metro Store,Boston,Massachusetts,East,Corporate,Home & Kitchen,Furniture,10,774.66,7746.6,0.0,1838.21,Credit Card
+b5647417-23ee-45ca-b60b-617ebdcbfb47,2024-11-08,Metro Store,Miami,Florida,South,Consumer,Electronics,Accessories,5,253.57,1267.85,0.05,80.36,Bank Transfer
+5f7d1567-7343-443a-a5f5-87dcb06e5e5d,2025-04-16,QuickBuy,Orlando,Florida,South,Corporate,Groceries,Dairy,5,185.71,928.55,0.0,63.59,Cash
+68db1465-5dc6-443b-a0dd-978c8cc845fb,2024-09-13,ShopEase,Chicago,Illinois,Central,Corporate,Home & Kitchen,Utensils,8,536.44,4291.52,0.05,991.18,Bank Transfer
+3ef902e2-9e28-42e1-ba32-1cc129e2f995,2024-12-23,Urban Mart,Miami,Florida,South,Home Office,Home & Kitchen,Utensils,6,664.73,3988.38,0.1,189.66,Cash
+bae924ef-f502-4c20-8778-7880f92dcce7,2024-07-02,QuickBuy,Atlanta,Georgia,South,Corporate,Home & Kitchen,Furniture,8,943.44,7547.52,0.05,1268.1,Credit Card
+2296acb8-c176-46a0-81da-32e2237c3ed8,2024-09-18,QuickBuy,Philadelphia,Pennsylvania,East,Home Office,Groceries,Fruits,10,378.8,3788.0,0.1,313.48,Cash
+e87447ce-7760-4c95-b185-48fa848ba62e,2024-08-02,Urban Mart,Spokane,Washington,West,Corporate,Clothing,Kids,9,819.41,7374.69,0.0,1400.18,Online Payment
+1ac14333-7486-483e-bddc-83100758e920,2025-01-08,ValueHub,Savannah,Georgia,South,Corporate,Home & Kitchen,Utensils,2,926.5,1853.0,0.15,213.7,Online Payment
+e21612f6-43d1-4267-b582-8ab8c957f796,2024-11-04,QuickBuy,Pittsburgh,Pennsylvania,East,Corporate,Clothing,Kids,5,702.69,3513.45,0.0,875.1,Bank Transfer
+adeda4cd-e303-4dd8-aac4-145fe6c3fb8b,2024-12-15,Urban Mart,Reno,Nevada,West,Corporate,Groceries,Fruits,8,504.35,4034.8,0.0,740.56,Credit Card
+0eb4c1e1-8dd1-4590-ac58-29df11b9dec5,2024-12-01,Urban Mart,Worcester,Massachusetts,East,Consumer,Home & Kitchen,Furniture,2,351.91,703.82,0.15,79.32,Bank Transfer
+5720ef1e-a346-48dc-a6da-84f6f1f064d1,2025-02-02,ShopEase,Springfield,Illinois,Central,Home Office,Home & Kitchen,Furniture,5,838.81,4194.05,0.15,658.3,Online Payment
+6c4ad675-54de-4a64-949b-ed5d2d0a7ab7,2024-09-05,Metro Store,Los Angeles,California,West,Corporate,Groceries,Snacks,6,172.07,1032.42,0.2,205.3,Online Payment
+8f7d844d-91b4-4f98-baf6-82e4f1551017,2025-06-08,Urban Mart,Orlando,Florida,South,Home Office,Clothing,Kids,3,939.51,2818.53,0.15,588.09,Bank Transfer
+94668d5d-7c17-4f86-a81a-286310d4961a,2025-05-05,QuickBuy,Detroit,Michigan,Central,Consumer,Clothing,Women,3,505.25,1515.75,0.2,250.83,Credit Card
+c61f7765-04fa-43f1-85ec-4453794d9ee9,2024-11-14,Urban Mart,Boston,Massachusetts,East,Consumer,Electronics,Appliances,7,13.52,94.64,0.2,6.1,Credit Card
+9b3bb2a3-a56a-4bdc-96f5-fbba348d871f,2024-07-07,QuickBuy,Las Vegas,Nevada,West,Home Office,Groceries,Snacks,3,241.24,723.72,0.05,75.21,Online Payment
+7e70902f-8dda-4483-90dc-e4f3db18a194,2024-12-08,ShopEase,Atlanta,Georgia,South,Consumer,Clothing,Kids,1,639.11,639.11,0.2,114.22,Cash
+73226bbb-531d-4849-91c3-fd33ae8e6143,2024-06-26,ShopEase,Los Angeles,California,West,Corporate,Groceries,Snacks,2,79.23,158.46,0.1,33.16,Cash
+07082c8d-c449-44de-b1ac-f3207659aa93,2024-10-07,QuickBuy,Seattle,Washington,West,Consumer,Clothing,Women,2,211.88,423.76,0.15,45.04,Bank Transfer
+76bcf750-cb2e-4f72-99f9-6c7a1f788b02,2024-09-11,ShopEase,Miami,Florida,South,Consumer,Electronics,Appliances,10,631.95,6319.5,0.0,464.11,Cash
+3c25357d-4c89-4824-bf9d-8cd31c616e0b,2025-05-08,Metro Store,Charlotte,North Carolina,South,Home Office,Electronics,Accessories,2,194.46,388.92,0.0,61.13,Online Payment
+b8d93e4f-6c68-48ef-836c-576236bf06e7,2024-08-21,Urban Mart,Chicago,Illinois,Central,Corporate,Clothing,Men,4,85.28,341.12,0.05,33.55,Cash
+54e47738-9fd7-489f-9031-c29c75c6181e,2024-12-25,QuickBuy,Spokane,Washington,West,Home Office,Home & Kitchen,Furniture,7,513.63,3595.41,0.15,716.56,Bank Transfer
+a54e5ca0-e9fb-4430-9904-42126ad13fb0,2025-06-01,QuickBuy,Pittsburgh,Pennsylvania,East,Consumer,Electronics,Phones,3,794.51,2383.53,0.15,276.94,Online Payment
+db189842-bb8c-4c43-a757-e9cb05cbcb70,2024-12-19,ValueHub,Houston,Texas,Central,Corporate,Home & Kitchen,Utensils,4,568.01,2272.04,0.1,469.45,Bank Transfer
+c8ac8156-3412-4981-a3fc-e9b92ff073dc,2024-06-23,ValueHub,Buffalo,New York,East,Corporate,Groceries,Snacks,10,827.03,8270.3,0.2,796.93,Online Payment
+1a48ca54-aadc-4616-8527-e73c7a91e042,2024-10-06,Metro Store,Worcester,Massachusetts,East,Corporate,Groceries,Fruits,2,216.75,433.5,0.1,48.53,Cash
+bf6bd0b3-ceaf-4b07-b207-7cc66addeb58,2025-01-29,ShopEase,Seattle,Washington,West,Consumer,Electronics,Phones,10,795.65,7956.5,0.05,1226.99,Bank Transfer
+ab5f2433-d334-416a-8cfb-ec6c8169f587,2024-12-03,Urban Mart,Philadelphia,Pennsylvania,East,Home Office,Home & Kitchen,Utensils,10,946.38,9463.8,0.0,1559.54,Online Payment
+fe230594-b50e-4f22-ac72-733d38c1c7eb,2024-11-29,Metro Store,Savannah,Georgia,South,Consumer,Home & Kitchen,Decor,8,499.65,3997.2,0.1,482.95,Credit Card
+4f7782e7-8b03-4325-9b41-feba5688c920,2024-09-24,ValueHub,Pittsburgh,Pennsylvania,East,Corporate,Groceries,Snacks,10,23.23,232.3,0.0,41.52,Cash
+505bb202-bd95-4433-bfd0-5af7c7869d1d,2025-05-20,Urban Mart,Springfield,Illinois,Central,Home Office,Groceries,Snacks,6,645.49,3872.94,0.0,557.62,Credit Card
+39d0a348-5cbf-4771-a1df-6ef48d22840e,2024-12-10,ShopEase,Dallas,Texas,Central,Corporate,Home & Kitchen,Decor,9,775.06,6975.54,0.15,1022.58,Credit Card
+689699ef-502c-4e74-8b9d-b3005e115134,2024-07-06,ShopEase,Atlanta,Georgia,South,Home Office,Home & Kitchen,Utensils,1,225.57,225.57,0.0,17.54,Credit Card
+9d1312ef-c342-4e1e-b9f8-38cb12f9e479,2025-04-10,Urban Mart,Miami,Florida,South,Consumer,Electronics,Appliances,9,989.59,8906.31,0.0,907.89,Online Payment
+11cf1545-ec94-41dd-8473-9e2676ee7ec8,2025-01-02,ShopEase,Seattle,Washington,West,Corporate,Groceries,Fruits,5,699.27,3496.35,0.05,553.67,Bank Transfer
+280ae7a9-4697-4807-bce3-bc35bb5d4d4c,2024-07-12,QuickBuy,Springfield,Illinois,Central,Home Office,Groceries,Vegetables,9,528.53,4756.77,0.2,554.01,Credit Card
+9758e9eb-de88-4379-aad8-b1e8246219bc,2024-12-22,Metro Store,Grand Rapids,Michigan,Central,Consumer,Home & Kitchen,Utensils,5,711.96,3559.8,0.1,518.07,Online Payment
+47d8811b-d0dd-47a3-bab4-64e02074865b,2025-01-11,Urban Mart,Philadelphia,Pennsylvania,East,Corporate,Clothing,Kids,4,15.1,60.4,0.05,8.24,Credit Card
+7e83c0aa-e044-424f-a06c-f5644b3a1aa9,2024-09-28,Metro Store,Orlando,Florida,South,Home Office,Home & Kitchen,Furniture,5,709.1,3545.5,0.05,739.53,Online Payment
+acdb15f5-a975-4c9f-95d1-60472dcb4995,2024-11-03,QuickBuy,Worcester,Massachusetts,East,Home Office,Groceries,Vegetables,7,189.58,1327.06,0.1,160.78,Cash
+64d84de5-271e-4b6a-9e5c-40555bdb5317,2024-10-20,Urban Mart,San Francisco,California,West,Home Office,Electronics,Appliances,4,18.55,74.2,0.15,5.51,Credit Card
+41c97939-ccc4-4ffb-b061-b3c651171278,2024-07-05,Urban Mart,Savannah,Georgia,South,Home Office,Groceries,Snacks,6,432.61,2595.66,0.05,319.05,Credit Card
+efc91595-97ea-4324-a332-bf8cc0eb7436,2024-12-10,ShopEase,Springfield,Illinois,Central,Corporate,Home & Kitchen,Decor,1,649.32,649.32,0.15,49.0,Credit Card
+29f3e1f0-6ca5-4135-ac21-0deaf043b343,2025-06-04,ValueHub,Pittsburgh,Pennsylvania,East,Home Office,Clothing,Women,9,434.7,3912.3,0.0,701.35,Bank Transfer
+fde5bb15-4f09-46f6-8d3e-6ea771bc7772,2024-10-06,ValueHub,Los Angeles,California,West,Corporate,Groceries,Vegetables,2,533.07,1066.14,0.1,91.44,Cash
+691dffe5-1214-458e-8608-e78dc08d0a95,2025-06-07,ShopEase,Miami,Florida,South,Corporate,Home & Kitchen,Utensils,3,786.16,2358.48,0.1,376.51,Cash
+3aafef9d-fc3f-4d59-b4c6-c5f39aaf615a,2025-05-19,ValueHub,Los Angeles,California,West,Home Office,Electronics,Appliances,5,852.86,4264.3,0.05,340.48,Bank Transfer
+208b14ef-d556-4e47-aa84-0088ec6f5e31,2025-04-10,Metro Store,Worcester,Massachusetts,East,Consumer,Groceries,Vegetables,7,335.39,2347.73,0.05,546.15,Bank Transfer
+358c502f-6570-4d59-b32b-43896483ade7,2024-06-19,QuickBuy,Reno,Nevada,West,Home Office,Groceries,Vegetables,8,873.47,6987.76,0.15,426.92,Credit Card
+f7b9fae8-06c9-4aff-9bd7-e5cbb9ccb9c7,2025-03-19,Metro Store,Philadelphia,Pennsylvania,East,Consumer,Groceries,Dairy,5,804.28,4021.4,0.1,508.59,Credit Card
+ba661ddc-bd29-47fc-8b79-7fd4fd488404,2025-01-12,ShopEase,Grand Rapids,Michigan,Central,Corporate,Electronics,Appliances,1,828.09,828.09,0.1,143.12,Bank Transfer
+7e37bd30-f791-40ae-8330-25bd3ee76c00,2025-03-28,Metro Store,Detroit,Michigan,Central,Corporate,Home & Kitchen,Furniture,3,358.48,1075.44,0.0,106.33,Cash
+7029da5c-bc7d-4314-abc3-dbc0cbe7da6e,2024-10-11,Metro Store,Philadelphia,Pennsylvania,East,Corporate,Home & Kitchen,Utensils,5,877.39,4386.95,0.2,806.65,Credit Card
+bcaf081a-77d1-49c9-8ca8-c4f39970b421,2025-04-05,ShopEase,Worcester,Massachusetts,East,Corporate,Home & Kitchen,Decor,5,310.7,1553.5,0.0,257.73,Bank Transfer
+b82c9acc-b72c-4d2e-bf9d-f0a066abe401,2024-10-09,ValueHub,Spokane,Washington,West,Corporate,Electronics,Appliances,2,969.53,1939.06,0.15,388.06,Online Payment
+c58ac41e-23fc-447a-81be-e6d84691d535,2025-03-10,ValueHub,Pittsburgh,Pennsylvania,East,Home Office,Clothing,Women,5,487.85,2439.25,0.0,512.14,Cash
+a38616aa-ae4f-436e-8e42-ef4a980061b3,2024-10-27,ValueHub,San Francisco,California,West,Consumer,Groceries,Snacks,8,307.21,2457.68,0.15,251.63,Credit Card
+1bdafb8b-ae2c-415f-a0d2-8ffef9e624a9,2024-08-18,ShopEase,Springfield,Illinois,Central,Home Office,Groceries,Fruits,2,713.77,1427.54,0.05,337.93,Cash
+09c694e6-16c5-425b-ab7e-d8abfaaa6284,2024-06-29,Urban Mart,Seattle,Washington,West,Corporate,Clothing,Women,4,812.09,3248.36,0.15,371.4,Online Payment
+da44e216-098d-434c-b678-ba69a738d8a8,2024-10-07,Metro Store,Grand Rapids,Michigan,Central,Home Office,Groceries,Dairy,6,804.77,4828.62,0.05,856.26,Bank Transfer
+5cc2874f-3dbc-4944-8552-6c34bc9982a7,2025-03-22,ShopEase,Boston,Massachusetts,East,Corporate,Clothing,Women,5,567.53,2837.65,0.15,383.91,Credit Card
+4e33f761-f9b9-4b65-8348-55e71796f519,2024-06-15,ShopEase,San Francisco,California,West,Home Office,Home & Kitchen,Utensils,8,355.49,2843.92,0.15,324.17,Online Payment
+a471797a-fcb5-4c3d-84e4-79a80526be2a,2025-05-06,QuickBuy,Las Vegas,Nevada,West,Consumer,Home & Kitchen,Utensils,10,907.04,9070.4,0.05,1430.96,Cash
+827d2eb9-973f-4d46-b02e-8f1bc9fcd5da,2025-05-18,Metro Store,Springfield,Illinois,Central,Corporate,Electronics,Phones,8,807.87,6462.96,0.2,734.42,Credit Card
+c465e8d6-4273-4b2e-90f4-cf71f2fdf84f,2025-01-26,ShopEase,Seattle,Washington,West,Home Office,Groceries,Fruits,5,566.31,2831.55,0.1,567.94,Credit Card
+e1132b26-ac14-475a-ae80-b1967a76adff,2024-08-16,ValueHub,Philadelphia,Pennsylvania,East,Home Office,Groceries,Fruits,3,225.1,675.3,0.05,70.68,Bank Transfer
+e67bc32e-5b8c-409e-a11a-49202e149def,2024-07-18,Urban Mart,Seattle,Washington,West,Consumer,Electronics,Appliances,3,604.58,1813.74,0.0,279.25,Credit Card
+89aba6ec-e7d4-47a7-af83-fb6222d1cbbf,2024-11-19,ValueHub,Seattle,Washington,West,Corporate,Clothing,Men,1,926.19,926.19,0.1,109.12,Bank Transfer
+ee39616b-c0dd-4c5d-aeb4-a21b1f1fe8be,2025-01-04,ValueHub,Grand Rapids,Michigan,Central,Consumer,Clothing,Men,3,636.92,1910.76,0.05,142.2,Bank Transfer
+26c81943-9b26-4961-9a4d-d626c168fa10,2025-01-19,ShopEase,Worcester,Massachusetts,East,Corporate,Clothing,Men,10,493.98,4939.8,0.1,570.12,Credit Card
+fa9872f8-7e9d-4425-bec7-3f3dca96cbcc,2024-10-24,Urban Mart,Atlanta,Georgia,South,Corporate,Groceries,Snacks,2,565.08,1130.16,0.0,187.73,Bank Transfer
+b7695f24-d040-4aa0-b1d2-8f6a4a5f2f6e,2025-05-24,QuickBuy,Seattle,Washington,West,Home Office,Groceries,Snacks,5,11.1,55.5,0.05,6.41,Bank Transfer
+79e2439d-8090-4571-92f0-f0b75c4ea035,2024-09-19,Metro Store,Charlotte,North Carolina,South,Home Office,Clothing,Women,6,656.62,3939.72,0.2,371.46,Cash
+54ef1f0a-cc1f-4140-867c-3828ca7a5758,2025-03-17,QuickBuy,Houston,Texas,Central,Corporate,Clothing,Women,10,659.65,6596.5,0.2,1011.64,Bank Transfer
+51ef7865-14b9-4393-b3b8-9b0869f864db,2025-05-02,ValueHub,Grand Rapids,Michigan,Central,Home Office,Electronics,Phones,2,46.84,93.68,0.05,8.57,Bank Transfer
+c91b30e8-e013-4b82-ada7-e1c3f7a6a2f8,2025-03-06,Metro Store,Atlanta,Georgia,South,Consumer,Groceries,Snacks,7,756.3,5294.1,0.15,1055.13,Cash
+53d53ec6-95a3-4dae-ab42-32969ea1ce69,2025-03-25,QuickBuy,Los Angeles,California,West,Corporate,Groceries,Dairy,3,322.52,967.56,0.15,103.24,Credit Card
+7ddf409c-9c77-4a6f-8667-6e5aadaf7594,2025-04-04,ShopEase,Dallas,Texas,Central,Consumer,Clothing,Men,3,435.19,1305.57,0.2,221.15,Cash
+cf63a112-0443-495e-b68b-20c0f520cbba,2025-01-30,Metro Store,Las Vegas,Nevada,West,Consumer,Clothing,Men,1,360.84,360.84,0.15,50.2,Cash
+0448f447-5d5b-41c0-9299-51a8f127d9a7,2024-06-27,Metro Store,Pittsburgh,Pennsylvania,East,Consumer,Groceries,Dairy,9,353.4,3180.6,0.2,585.11,Bank Transfer
+9609c615-0d3e-4596-a76a-d081ef467e70,2024-09-02,Urban Mart,Savannah,Georgia,South,Home Office,Clothing,Men,3,782.82,2348.46,0.1,148.34,Credit Card
+f743155d-aa2f-4d3e-8987-e1cc8905c8a1,2025-06-07,Urban Mart,Reno,Nevada,West,Consumer,Home & Kitchen,Furniture,5,391.65,1958.25,0.1,112.07,Online Payment
+4ed72331-8336-40cd-84ab-1cdc4a8a7cc0,2024-11-24,ValueHub,Las Vegas,Nevada,West,Home Office,Clothing,Women,7,619.41,4335.87,0.2,657.33,Online Payment
+4a63fd70-a843-400b-8350-44e6dea30d62,2024-11-15,Urban Mart,Detroit,Michigan,Central,Corporate,Groceries,Snacks,5,202.11,1010.55,0.0,78.68,Bank Transfer
+19dd5136-4ec1-46dd-8b3d-329d7231fe67,2025-02-08,Urban Mart,San Francisco,California,West,Home Office,Electronics,Appliances,6,981.09,5886.54,0.15,848.75,Credit Card
+c432c2b8-1ddf-49e6-95cc-8e76e555be99,2024-08-22,Urban Mart,Boston,Massachusetts,East,Consumer,Groceries,Snacks,9,226.79,2041.11,0.1,250.39,Bank Transfer
+80ce44f9-1b24-4fa7-96dc-3c5f10763991,2024-10-04,Metro Store,Los Angeles,California,West,Home Office,Electronics,Phones,1,553.39,553.39,0.0,70.52,Bank Transfer
+a5d4e198-9b55-41ae-808c-b08ec4b5c4d8,2024-11-11,ValueHub,Worcester,Massachusetts,East,Consumer,Home & Kitchen,Decor,8,119.76,958.08,0.2,188.94,Credit Card
+a5a08952-c6fa-4837-82ea-2a1980754318,2024-09-10,Urban Mart,Worcester,Massachusetts,East,Consumer,Electronics,Accessories,2,589.44,1178.88,0.05,148.52,Cash
+24ea357d-9d10-456e-9607-cf02570780ab,2024-10-06,Urban Mart,New York City,New York,East,Consumer,Groceries,Fruits,3,284.03,852.09,0.1,91.97,Bank Transfer
+786c408b-bc5a-4eec-8826-f124a2943830,2025-04-21,QuickBuy,Pittsburgh,Pennsylvania,East,Home Office,Clothing,Women,2,78.23,156.46,0.2,11.41,Credit Card
+6b913e67-c0a9-4ee1-9e54-bcbdd30cfc19,2024-12-11,ShopEase,Raleigh,North Carolina,South,Home Office,Electronics,Phones,4,527.79,2111.16,0.1,216.17,Online Payment
+7bbbda89-ee77-43d8-9957-b9495af13db5,2025-01-05,ShopEase,Dallas,Texas,Central,Consumer,Groceries,Fruits,3,841.74,2525.22,0.2,194.15,Cash
+72cdac67-4f2d-491d-9684-70093b92f687,2024-08-27,Urban Mart,Detroit,Michigan,Central,Consumer,Clothing,Men,8,953.14,7625.12,0.0,1142.1,Bank Transfer
+b0633e2f-c936-4612-a8e5-8440af95ebe4,2024-10-12,ShopEase,Grand Rapids,Michigan,Central,Consumer,Groceries,Dairy,5,854.87,4274.35,0.15,541.61,Credit Card
+a262879c-8ba5-487c-81ed-3c38cb1a4d22,2024-10-21,Metro Store,Miami,Florida,South,Corporate,Home & Kitchen,Utensils,7,533.43,3734.01,0.1,189.07,Cash
+29a52549-16ea-4605-ba46-b7ccbc5b9727,2024-07-10,Urban Mart,Houston,Texas,Central,Corporate,Electronics,Phones,7,783.05,5481.35,0.0,1159.19,Bank Transfer
+f3873cdd-8399-4788-ad4d-c9e227fbe096,2025-06-01,QuickBuy,Grand Rapids,Michigan,Central,Home Office,Home & Kitchen,Decor,3,960.38,2881.14,0.15,487.66,Online Payment
+f4a57921-7ebf-446d-9de0-4d6524263667,2024-06-16,Urban Mart,Spokane,Washington,West,Consumer,Clothing,Men,6,571.94,3431.64,0.0,594.05,Online Payment
+0b974073-eabd-468d-95c1-3720ca96fa47,2024-10-02,Urban Mart,Detroit,Michigan,Central,Corporate,Electronics,Accessories,5,847.9,4239.5,0.15,513.67,Online Payment
+816e0238-4785-4829-a59a-47591b8aced9,2024-09-25,QuickBuy,Orlando,Florida,South,Home Office,Home & Kitchen,Furniture,7,60.47,423.29,0.0,44.57,Cash
+61735c84-fe78-44f2-b68d-91c56ba8c0ac,2024-07-02,ShopEase,Orlando,Florida,South,Corporate,Electronics,Phones,3,228.96,686.88,0.05,51.8,Bank Transfer
+838197e9-aa90-42fe-8c54-cecfed634f8b,2025-01-20,Metro Store,Las Vegas,Nevada,West,Home Office,Groceries,Vegetables,10,318.7,3187.0,0.2,493.28,Bank Transfer
+9a761895-4fbc-4f31-a946-78b7ec1b24ef,2025-02-23,ValueHub,Springfield,Illinois,Central,Home Office,Groceries,Dairy,10,236.23,2362.3,0.0,154.72,Credit Card
+babf1638-2967-40c2-8301-12146a5b8a29,2024-10-27,ShopEase,Los Angeles,California,West,Home Office,Home & Kitchen,Furniture,7,73.25,512.75,0.15,98.14,Online Payment
+0de707c1-d6ca-4942-8836-6363f9b00548,2024-11-29,ShopEase,Grand Rapids,Michigan,Central,Corporate,Clothing,Men,8,942.59,7540.72,0.1,1183.48,Online Payment
+9a964b08-5f51-4a02-b4a9-df365c2ddd61,2025-03-26,ValueHub,Seattle,Washington,West,Consumer,Clothing,Women,10,213.06,2130.6,0.1,291.77,Credit Card
+f852f017-3401-4b8c-90cc-9287f7f0548c,2024-12-12,Metro Store,Charlotte,North Carolina,South,Corporate,Electronics,Phones,2,958.71,1917.42,0.05,297.06,Credit Card
+b7cb19c1-fcc5-4124-bbfa-db3e281337f7,2024-09-11,ValueHub,Las Vegas,Nevada,West,Corporate,Home & Kitchen,Decor,6,270.64,1623.84,0.2,141.1,Bank Transfer
+d12c5da5-1d5c-4de2-83b2-c016fb82aafa,2024-08-03,QuickBuy,Boston,Massachusetts,East,Corporate,Clothing,Women,4,446.12,1784.48,0.15,185.62,Credit Card
+a0a6cc99-9fbf-4f47-8531-b8fbb2a9d964,2024-07-24,ValueHub,Spokane,Washington,West,Consumer,Electronics,Appliances,7,231.3,1619.1,0.05,361.68,Bank Transfer
+17483a20-08d3-4055-a97a-408b6c54dbf9,2024-12-16,ShopEase,Pittsburgh,Pennsylvania,East,Corporate,Clothing,Women,2,83.34,166.68,0.15,21.39,Online Payment
+4bc58c94-9962-4991-a6e2-dd312e0482c8,2025-05-01,Metro Store,Charlotte,North Carolina,South,Corporate,Clothing,Kids,3,122.55,367.65,0.1,67.2,Credit Card
+d6c63265-baac-45e5-988f-707f4c3e8eb2,2025-01-23,QuickBuy,Los Angeles,California,West,Consumer,Home & Kitchen,Decor,2,134.11,268.22,0.2,50.15,Cash
+790c2468-5337-48ef-a434-4219d942fe64,2024-12-12,ShopEase,Boston,Massachusetts,East,Consumer,Home & Kitchen,Utensils,6,592.3,3553.8,0.2,203.43,Online Payment
+b7b95cac-6c86-422e-b89b-b8f6c7af8662,2025-03-10,QuickBuy,Dallas,Texas,Central,Home Office,Groceries,Fruits,5,758.14,3790.7,0.05,708.31,Bank Transfer
+af1faad7-9066-4564-86ae-200f96f25d91,2025-01-25,QuickBuy,Reno,Nevada,West,Corporate,Groceries,Vegetables,8,178.37,1426.96,0.2,120.85,Online Payment
+4e7ef6df-1be3-43ce-81cf-94ef83b87b77,2025-05-01,Urban Mart,Dallas,Texas,Central,Home Office,Groceries,Vegetables,5,324.15,1620.75,0.1,293.86,Bank Transfer
+afc9caed-8aa4-48ca-a7d7-47c0d9e79cf7,2024-11-02,ValueHub,Worcester,Massachusetts,East,Home Office,Clothing,Men,2,348.65,697.3,0.05,48.83,Online Payment
+d8d59c39-ceae-457c-95a5-1ea7e874f190,2025-05-23,ShopEase,Miami,Florida,South,Corporate,Electronics,Accessories,4,667.1,2668.4,0.05,175.41,Credit Card
+263c24a4-8d7f-4d9a-b342-9f0ae0e8f0d4,2024-06-12,Urban Mart,Las Vegas,Nevada,West,Corporate,Clothing,Men,6,204.73,1228.38,0.2,132.96,Credit Card
+f7f51cea-5748-46bf-a541-a8e36ab60266,2025-02-22,Urban Mart,Worcester,Massachusetts,East,Home Office,Home & Kitchen,Decor,8,889.1,7112.8,0.15,620.38,Credit Card
+fcfac431-299e-4a32-8381-e0b29205f900,2024-07-20,Metro Store,Seattle,Washington,West,Home Office,Clothing,Women,6,158.41,950.46,0.1,90.01,Credit Card
+5a127b3e-adc9-4e60-a977-06830bd02316,2024-12-14,ValueHub,Seattle,Washington,West,Corporate,Groceries,Dairy,9,661.81,5956.29,0.0,1428.54,Cash
