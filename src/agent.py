@@ -10,7 +10,7 @@ def build_agent(df: pd.DataFrame) -> dict:
         raise ValueError("GROQ_API_KEY is missing. Set it in your .env file or Streamlit Secrets.")
 
     llm = ChatGroq(
-        model="llama-3.3-70b-versatile",
+        model="llama-3.1-8b-instant",
         api_key=api_key,
         temperature=0.1,
     )
